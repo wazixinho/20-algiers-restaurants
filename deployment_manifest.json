@@ -1,0 +1,169 @@
+[
+  {
+    "slug": "el-djenina",
+    "restaurant_name": "Restaurant El Djenina",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-prompt-bugle-ckdc0wm.vercel.app",
+    "deployed_at": "2026-10-03T22:19:16.000Z"
+  },
+  {
+    "slug": "le-bardo",
+    "restaurant_name": "Restaurant Le Bardo",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-rushing-marimba-p5444rt.vercel.app",
+    "deployed_at": "2026-10-03T22:24:21.000Z"
+  },
+  {
+    "slug": "le-dauphin",
+    "restaurant_name": "Restaurant Le Dauphin",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-turbo-banyan-vk6qg8y.vercel.app",
+    "deployed_at": "2026-10-03T22:25:12.911Z"
+  },
+  {
+    "slug": "le-tantra",
+    "restaurant_name": "Restaurant Le Tantra",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-fleet-violet-eyrzl68.vercel.app",
+    "deployed_at": "2026-10-03T22:25:39.135Z"
+  },
+  {
+    "slug": "le-caracoya",
+    "restaurant_name": "Restaurant Le Caracoya",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-nimble-orion-krxj6s4.vercel.app",
+    "deployed_at": "2026-10-03T22:26:05.550Z"
+  },
+  {
+    "slug": "al-boustan",
+    "restaurant_name": "Restaurant Al Boustan",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-rapid-opal-qljjigk.vercel.app",
+    "deployed_at": "2026-10-03T22:26:30.474Z"
+  },
+  {
+    "slug": "sfindja",
+    "restaurant_name": "Restaurant Sfindja",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-express-cobalt-ymk2ipc.vercel.app",
+    "deployed_at": "2026-10-03T22:26:57.928Z"
+  },
+  {
+    "slug": "chez-sauveur",
+    "restaurant_name": "Restaurant Chez Sauveur",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-swift-jade-007wj7l.vercel.app",
+    "deployed_at": "2026-10-03T22:27:22.768Z"
+  },
+  {
+    "slug": "la-scala",
+    "restaurant_name": "Restaurant La Scala",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-swift-iron-5gulnx2.vercel.app",
+    "deployed_at": "2026-10-03T22:27:47.613Z"
+  },
+  {
+    "slug": "dar-zellige",
+    "restaurant_name": "Restaurant Dar Zellige",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-rushing-slate-2an6lhu.vercel.app",
+    "deployed_at": "2026-10-03T22:28:11.844Z"
+  },
+  {
+    "slug": "dar-yemma-casbah",
+    "restaurant_name": "Restaurant Dar Yemma Casbah",
+    "build_status": "FAILED",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": null,
+    "deployed_at": "2026-10-03T22:52:23.000Z",
+    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+  },
+  {
+    "slug": "la-palmeraie",
+    "restaurant_name": "Restaurant La Palmeraie",
+    "build_status": "FAILED",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": null,
+    "deployed_at": "2026-10-03T22:34:11.888Z",
+    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+  },
+  {
+    "slug": "le-normand",
+    "restaurant_name": "Restaurant Le Normand",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-quick-apogee-vbixzat.vercel.app",
+    "deployed_at": "2026-10-03T22:34:45.691Z"
+  },
+  {
+    "slug": "l-auberge-du-moulin",
+    "restaurant_name": "Restaurant L'Auberge du Moulin",
+    "build_status": "FAILED",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": null,
+    "deployed_at": "2026-10-03T22:37:45.711Z",
+    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+  },
+  {
+    "slug": "bellagiorno",
+    "restaurant_name": "Restaurant Bellagiorno",
+    "build_status": "FAILED",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": null,
+    "deployed_at": "2026-10-03T22:40:45.730Z",
+    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+  },
+  {
+    "slug": "la-trattoria-sheraton",
+    "restaurant_name": "La Trattoria - Sheraton Club des Pins",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-spry-crater-vo22kul.vercel.app",
+    "deployed_at": "2026-10-03T22:41:13.014Z"
+  },
+  {
+    "slug": "el-mordjane-sofitel",
+    "restaurant_name": "El Mordjane - Sofitel Algiers Hamma Garden",
+    "build_status": "FAILED",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": null,
+    "deployed_at": "2026-10-03T22:44:13.055Z",
+    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+  },
+  {
+    "slug": "le-bearnais",
+    "restaurant_name": "Restaurant Le Béarnais",
+    "build_status": "FAILED",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": null,
+    "deployed_at": "2026-10-03T22:47:13.080Z",
+    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+  },
+  {
+    "slug": "beef-cote-steakhouse",
+    "restaurant_name": "Beef Côte Steakhouse",
+    "build_status": "SUCCESS",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": "https://temporary-turbo-tundra-ilb26sm.vercel.app",
+    "deployed_at": "2026-10-03T22:47:40.898Z"
+  },
+  {
+    "slug": "dwiret-el-azz",
+    "restaurant_name": "Restaurant Dwiret El Azz",
+    "build_status": "FAILED",
+    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "live_url": null,
+    "deployed_at": "2026-10-03T22:50:40.922Z",
+    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+  }
+]

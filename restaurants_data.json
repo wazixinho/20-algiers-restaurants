@@ -1,0 +1,2320 @@
+[
+  {
+    "id": "el-djenina",
+    "name": "Restaurant El Djenina",
+    "cuisine": [
+      "Traditional Algerian",
+      "Maghrebi Haute Cuisine"
+    ],
+    "address": "10 Rue Franklin Roosevelt, Sidi M'Hamed, 16000 Alger, Algeria",
+    "phone": "+213 773 41 77 65",
+    "hours": {
+      "monday": "12:00 - 14:30, 19:00 - 22:30",
+      "tuesday": "12:00 - 14:30, 19:00 - 22:30",
+      "wednesday": "12:00 - 14:30, 19:00 - 22:30",
+      "thursday": "12:00 - 14:30, 19:00 - 22:30",
+      "friday": "Closed",
+      "saturday": "12:00 - 14:30, 19:00 - 22:30",
+      "sunday": "12:00 - 14:30, 19:00 - 22:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/eldjeninaalger",
+      "instagram": "https://www.instagram.com/restaurant_eldjenina"
+    },
+    "branding": {
+      "color_palette": [
+        "#8B263E",
+        "#D4AF37",
+        "#2C3E50",
+        "#F7F3E9"
+      ],
+      "aesthetic_keywords": [
+        "Ottoman palace",
+        "Andalusian zellige",
+        "Arabesque plasterwork",
+        "Aristocratic heritage",
+        "Fine dining"
+      ],
+      "logo_description": "Intricate Andalusian floral arabesque medallion framing elegant calligraphy of 'El Djenina' rendered in burnished antique gold."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Chorba Frik Traditionnelle",
+            "description": "Soupe algéroise ancestrale au blé vert concassé, agneau tendre, coriandre fraîche et menthe sauvage.",
+            "price": "650 DZD"
+          },
+          {
+            "name": "Bourek Annabi à la Viande",
+            "description": "Feuille de dioul croustillante farcie de viande hachée assaisonnée, persil, oignons caramélisés et œuf coulant.",
+            "price": "450 DZD"
+          },
+          {
+            "name": "Salade Méchouia du Terroir",
+            "description": "Poivrons et tomates grillés au feu de bois, pilés à l'ail et arrosés d'huile d'olive vierge extra de Kabylie.",
+            "price": "700 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Couscous Royal El Djenina",
+            "description": "Semoule fine roulée à la main, souris d'agneau confite, poulet fermier, merguez artisanale et bouillon de légumes frais.",
+            "price": "2,600 DZD"
+          },
+          {
+            "name": "Rechta Algéroise Traditionnelle",
+            "description": "Pâtes fines artisanales algéroises cuites à la vapeur, poulet fermier, navets fondants et sauce blanche parfumée à la cannelle.",
+            "price": "2,200 DZD"
+          },
+          {
+            "name": "Tajine Lham Lahlou aux Fruits Secs",
+            "description": "Mijoté sucré-salé de viande de veau aux pruneaux, abricots secs, amandes torréfiées et eau de fleur d'oranger.",
+            "price": "2,400 DZD"
+          },
+          {
+            "name": "Tajine Zitoune au Veau Tendre",
+            "description": "Olives vertes désamérisées, morceaux de veau fondants et champignons de Paris dans une sauce veloutée au citron.",
+            "price": "2,300 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Assortiment de Pâtisseries Algéroises",
+            "description": "Plateau de trois douceurs fines : Baklawa feuilletée aux amandes, Dziriette au miel pur et M'chewek doré.",
+            "price": "950 DZD"
+          },
+          {
+            "name": "M'halbi Traditionnel à la Cannelle",
+            "description": "Crème douce de riz parfumée à l'eau de fleur d'oranger de Blida, saupoudrée de cannelle de Ceylan.",
+            "price": "550 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages & Infusions",
+        "items": [
+          {
+            "name": "Thé à la Menthe Fraîche en Samovar",
+            "description": "Thé vert gunpowder infusé aux feuilles de menthe nanah fraîche, servi à la verseuse traditionnelle.",
+            "price": "400 DZD"
+          },
+          {
+            "name": "Cherbet Artisanal de Boufarik",
+            "description": "Boisson rafraîchissante au jus de citron pressé, zeste et une touche d'eau de fleur d'oranger.",
+            "price": "450 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "le-bardo",
+    "name": "Restaurant Le Bardo",
+    "cuisine": [
+      "Contemporary Algerian",
+      "Gourmet Maghrebi"
+    ],
+    "address": "2 Boulevard Franklin Roosevelt, Sidi M'Hamed, 16000 Alger, Algeria",
+    "phone": "+213 770 50 24 98",
+    "hours": {
+      "monday": "12:00 - 14:30, 19:30 - 23:30",
+      "tuesday": "12:00 - 14:30, 19:30 - 23:30",
+      "wednesday": "12:00 - 14:30, 19:30 - 23:30",
+      "thursday": "12:00 - 14:30, 19:30 - 23:30",
+      "friday": "19:30 - 23:30",
+      "saturday": "Closed",
+      "sunday": "12:00 - 14:30, 19:30 - 23:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/RestaurantLeBardoAlger",
+      "instagram": "https://www.instagram.com/lebardorestaurant"
+    },
+    "branding": {
+      "color_palette": [
+        "#1F2937",
+        "#C5A059",
+        "#4A5568",
+        "#F9FAFB"
+      ],
+      "aesthetic_keywords": [
+        "Gastronomic revival",
+        "Refined orientalism",
+        "Chic intimate",
+        "Subdued ambient lighting",
+        "Museum heritage"
+      ],
+      "logo_description": "Sophisticated minimalist serif wordmark reading 'LE BARDO' with a delicate geometric Moorish arch monogram in brushed brass gold."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Velouté de Berkoukes au Pigeon Fondant",
+            "description": "Petits grains de pâtes traditionnelles dans une émulsion d'herbes aromatiques des Aurès et effiloché de pigeon.",
+            "price": "1,100 DZD"
+          },
+          {
+            "name": "Carpaccio de Poulpe aux Agrumes de la Mitidja",
+            "description": "Fines lamelles de poulpe de roche mariné aux citrons et oranges sanguines, piment doux fumé et huile vierge.",
+            "price": "1,400 DZD"
+          },
+          {
+            "name": "Pastilla Croustillante au Canard Confit",
+            "description": "Feuilletage croustillant, chair de canard confite aux épices douces, amandes effilées torréfiées et sucre glace.",
+            "price": "1,500 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Méchoui d'Agneau de l'Atlas Rôti 12 Heures",
+            "description": "Agneau cuit à basse température, jus corsé infusé au romarin sauvage et semoule fine d'orge perlée.",
+            "price": "2,900 DZD"
+          },
+          {
+            "name": "Filet de Loup de Mer au Safran de Tlemcen",
+            "description": "Loup sauvage poêlé unilatéral, écrasé de fenouil braisé au safran local et réduction d'agrumes.",
+            "price": "2,800 DZD"
+          },
+          {
+            "name": "Jarret de Veau Caramélisé aux Coings",
+            "description": "Jarret de veau braisé lentement, quartiers de coings confits au miel d'acacia et graines de sésame grillées.",
+            "price": "2,600 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Déclinaison de Dattes Deglet Nour en Textures",
+            "description": "Dattes royales en mousse légère, biscuit sablé et glace onctueuse au lait d'amande douce.",
+            "price": "900 DZD"
+          },
+          {
+            "name": "Mille-Feuille à la Fleur d'Oranger et Pistaches",
+            "description": "Pâte feuilletée inversée croustillante, crème diplomate à l'eau de fleur d'oranger et éclats de pistaches.",
+            "price": "850 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Signature Drinks",
+        "items": [
+          {
+            "name": "Infusion Signature Le Bardo",
+            "description": "Sélection d'herbes sauvages des hauts plateaux algériens, écorces d'oranges séchées et miel de montagne.",
+            "price": "500 DZD"
+          },
+          {
+            "name": "Nectar Pressé Grenade & Orange Sanguine",
+            "description": "Jus pur pressé minute de grenades d'El Affroun et oranges sanguines locales.",
+            "price": "600 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "le-dauphin",
+    "name": "Restaurant Le Dauphin",
+    "cuisine": [
+      "Mediterranean Seafood",
+      "Maritime Gastronomy"
+    ],
+    "address": "Rue d'Angkor, La Pêcherie, Port d'Alger, 16001 Alger, Algeria",
+    "phone": "+213 563 27 36 82",
+    "hours": {
+      "monday": "11:30 - 23:30",
+      "tuesday": "11:30 - 23:30",
+      "wednesday": "11:30 - 23:30",
+      "thursday": "11:30 - 23:30",
+      "friday": "12:30 - 23:30",
+      "saturday": "11:30 - 23:30",
+      "sunday": "11:30 - 23:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/LeDauphinPecherie",
+      "website": "https://www.restaurantledauphin.com"
+    },
+    "branding": {
+      "color_palette": [
+        "#0B3C5D",
+        "#328CC1",
+        "#D9B310",
+        "#FFFFFF"
+      ],
+      "aesthetic_keywords": [
+        "Maritime heritage",
+        "Portside panoramic",
+        "Historic fish market institution",
+        "Nautical classic",
+        "Fresh daily catch"
+      ],
+      "logo_description": "Embossed circular navy seal featuring twin golden leaping dolphins framing a classical ship anchor with bold marine typography."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Soupe de Poisson de la Pêcherie",
+            "description": "Recette traditionnelle de poissons de roche de la baie d'Alger, servie avec croûtons aillés et rouille maison.",
+            "price": "900 DZD"
+          },
+          {
+            "name": "Salade Tiède de Poulpe de Roche",
+            "description": "Poulpe fraîchement pêché, mariné à l'huile d'olive extra vierge, ail écrasé, persil plat et quartiers de citron.",
+            "price": "1,300 DZD"
+          },
+          {
+            "name": "Crevettes Royales Sautées à l'Ail",
+            "description": "Grosses crevettes rouges de Méditerranée revenues à la poêle à l'huile d'olive, ail et pointe de piment.",
+            "price": "1,600 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Paella Royale aux Fruits de Mer",
+            "description": "Riz safrané généreusement garni de gambas royales, moules fraîches de bouchot, calamars et morceaux de seiche.",
+            "price": "3,200 DZD"
+          },
+          {
+            "name": "Daurade Royale de Ligne Entière Grillée",
+            "description": "Daurade fraîche entière du jour grillée sur braises, assaisonnée de gros sel marin et herbes fraîches.",
+            "price": "2,800 DZD"
+          },
+          {
+            "name": "Picada d'Espadon Grillé à la Plancha",
+            "description": "Pavé d'espadon de pleine mer saisi à la plancha, sauce vierge tiède aux tomates concassées et câpres.",
+            "price": "2,700 DZD"
+          },
+          {
+            "name": "Friture Mixte de la Pêcherie",
+            "description": "Assortiment croustillant de rougets de roche, merlans frais et anneaux de calmar dorés à la farine fine.",
+            "price": "2,400 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Tarte au Citron Meringuée de Tipaza",
+            "description": "Pâte sablée pur beurre, crème onctueuse aux citrons de la côte et meringue italienne dorée au chalumeau.",
+            "price": "750 DZD"
+          },
+          {
+            "name": "Coupe de Glace Artisanale Trois Parfums",
+            "description": "Glace artisanale fabriquée localement : vanille gousse, chocolat noir intense et sorbet mandarine.",
+            "price": "650 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Citronnade Maison à la Menthe Pilée",
+            "description": "Pur jus de citron frais pressé, menthe fraîche pilée, glace pilée et sirop de sucre de canne.",
+            "price": "450 DZD"
+          },
+          {
+            "name": "Eau Minérale Gazeuse Lalla Khedidja 1L",
+            "description": "Eau minérale naturellement pétillante embouteillée au pied du Djurdjura.",
+            "price": "300 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "le-tantra",
+    "name": "Restaurant Le Tantra",
+    "cuisine": [
+      "French Haute Cuisine",
+      "Contemporary Fusion"
+    ],
+    "address": "Villa n° 2, Bois des Arcades, Riadh El Feth, El Madania, 16075 Alger, Algeria",
+    "phone": "+213 21 65 46 54",
+    "hours": {
+      "monday": "12:00 - 15:00, 19:30 - 23:30",
+      "tuesday": "12:00 - 15:00, 19:30 - 23:30",
+      "wednesday": "12:00 - 15:00, 19:30 - 23:30",
+      "thursday": "12:00 - 15:00, 19:30 - 23:30",
+      "friday": "19:30 - 23:30",
+      "saturday": "Closed",
+      "sunday": "12:00 - 15:00, 19:30 - 23:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/letantraalger",
+      "instagram": "https://www.instagram.com/letantra_algiers"
+    },
+    "branding": {
+      "color_palette": [
+        "#111111",
+        "#9D0208",
+        "#D4AF37",
+        "#2B2D42"
+      ],
+      "aesthetic_keywords": [
+        "Lounge chic",
+        "Glamorous evening dining",
+        "Pine forest terrace",
+        "Moody ambient lighting",
+        "Haute gastronomy"
+      ],
+      "logo_description": "Minimalist modern calligraphy emblem featuring an abstract interlocking 'T' motif in glowing gold over a matte black ground."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Ravioles Ouvertes de Foie Gras Poêlé",
+            "description": "Pâtes fines fraîches, escalope de foie gras de canard poêlée minute et émulsion crémeuse à la truffe noire d'été.",
+            "price": "2,100 DZD"
+          },
+          {
+            "name": "Salade Gourmande de Magret Fumé",
+            "description": "Jeunes pousses de mesclun, tranches de magret de canard fumé maison, noix torréfiées et copeaux de parmesan 24 mois.",
+            "price": "1,700 DZD"
+          },
+          {
+            "name": "Gambas Tempura Croustillantes",
+            "description": "Grosses gambas en chapelure japonaise légère, servies avec mayonnaise fine au wasabi et réduction de yuzu.",
+            "price": "1,900 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Filet de Bœuf Black Angus au Poivre Vert",
+            "description": "Pièce noble de bœuf Angus saisie au saignant, sauce onctueuse au poivre vert de Madagascar et mousseline de pommes rattes.",
+            "price": "3,800 DZD"
+          },
+          {
+            "name": "Médaillon de Lotte Rôti au Coulis de Crustacés",
+            "description": "Queue de lotte fraîche rôtie à la plancha, risotto crémeux au safran et réduction intense de bisque de homard.",
+            "price": "3,500 DZD"
+          },
+          {
+            "name": "Chateaubriand Béarnaise (Pour Deux)",
+            "description": "Cœur de filet de bœuf épais rôti au beurre clarifié, sauce béarnaise maison montée minute et pommes grenailles sautées.",
+            "price": "7,200 DZD"
+          },
+          {
+            "name": "Souris d'Agneau Confite 7 Heures",
+            "description": "Souris d'agneau fondante caramélisée au jus d'échalotes et herbes fraîches de garrigue.",
+            "price": "3,200 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Fondant au Chocolat Noir Valrhona",
+            "description": "Cœur coulant au chocolat grand cru guanaja 70%, glace artisanale vanille bourbon et crumble cacao.",
+            "price": "950 DZD"
+          },
+          {
+            "name": "Nougat Glacé aux Éclats d'Amandes",
+            "description": "Nougat glacé au miel de montagne, amandes caramélisées, pistaches et coulis de framboises sauvages.",
+            "price": "850 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Signature Drinks",
+        "items": [
+          {
+            "name": "Cocktail Signature Tantra Passion",
+            "description": "Élixir rafraîchissant au fruit de la passion frais, purée de mangue, gingembre râpé et tonic artisanal.",
+            "price": "750 DZD"
+          },
+          {
+            "name": "Virgin Mojito Framboise des Bois",
+            "description": "Framboises fraîches écrasées, feuilles de menthe poivrée, jus de lime frais et soda pétillant.",
+            "price": "650 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "le-caracoya",
+    "name": "Restaurant Le Caracoya",
+    "cuisine": [
+      "Classic French",
+      "Mediterranean Bistro"
+    ],
+    "address": "3 Rue de Pierre (ex-Rue Michelet), Rue Ben Messaoud, Sidi M'Hamed, 16000 Alger, Algeria",
+    "phone": "+213 44 19 08 00",
+    "hours": {
+      "monday": "12:00 - 23:00",
+      "tuesday": "12:00 - 23:00",
+      "wednesday": "12:00 - 23:00",
+      "thursday": "12:00 - 23:00",
+      "friday": "16:00 - 23:00",
+      "saturday": "12:00 - 23:00",
+      "sunday": "12:00 - 23:00"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/lecaracoya",
+      "instagram": "https://www.instagram.com/le_caracoya_restaurant"
+    },
+    "branding": {
+      "color_palette": [
+        "#4A154B",
+        "#C0A080",
+        "#2D3748",
+        "#FFFDF9"
+      ],
+      "aesthetic_keywords": [
+        "Historic bohemian bistro",
+        "Indoor fountain patio",
+        "French colonial charm",
+        "Jazz ambient acoustics",
+        "Intimate retro elegance"
+      ],
+      "logo_description": "Vintage art-nouveau script displaying 'Le Caracoya' underlined with an engraved stone shell fountain motif in antique brass."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Escargots de Bourgogne en Coquilles",
+            "description": "Douzaine d'escargots sauvages préparés dans leur coquille avec beurre persillé à l'ail et échalotes.",
+            "price": "1,400 DZD"
+          },
+          {
+            "name": "Foie Gras de Canard Mi-Cuit Maison",
+            "description": "Terrine de foie gras mariné au vieux cognac, chutney de figues de Kabylie et tranches de brioche dorée.",
+            "price": "2,200 DZD"
+          },
+          {
+            "name": "Carpaccio de Bœuf à l'Huile de Truffe",
+            "description": "Fines tranches de filet de bœuf cru assaisonnées d'huile de truffe, câpres et copeaux de grana padano.",
+            "price": "1,500 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Confit de Canard et Pommes Sarladaises",
+            "description": "Cuisse de canard confite longuement dans sa graisse, peau croustillante, pommes de terre sautées à l'ail et persil.",
+            "price": "2,900 DZD"
+          },
+          {
+            "name": "Coq au Vin Traditionnel Mijoté",
+            "description": "Morceaux de coq braisés à l'ancienne avec petits oignons grelots, lardons fumés et champignons de Paris.",
+            "price": "2,600 DZD"
+          },
+          {
+            "name": "Filet de Loup Poêlé sur Peau",
+            "description": "Loup sauvage saisi unilatéralement, tombée d'épinards frais au beurre et réduction balsamique.",
+            "price": "2,800 DZD"
+          },
+          {
+            "name": "Pavé de Saumon Rôti Hollandaise",
+            "description": "Saumon frais rôti au four, sauce hollandaise onctueuse au citron et tagliatelles fraîches au beurre.",
+            "price": "2,700 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Crème Brûlée à la Vanille Bourbon",
+            "description": "Crème soyeuse aux jaunes d'œufs et gousses de vanille de Madagascar, fine couche de caramel croustillant.",
+            "price": "700 DZD"
+          },
+          {
+            "name": "Profiteroles Artisanales au Chocolat Chaud",
+            "description": "Choux croustillants faits maison garnis de glace vanille artisanale et nappés de chocolat noir fondu.",
+            "price": "850 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Café Gourmand Le Caracoya",
+            "description": "Café espresso italien intense accompagné de trois mignardises sucrées du chef pâtissier.",
+            "price": "600 DZD"
+          },
+          {
+            "name": "Jus Pressé Ananas Frais & Menthe",
+            "description": "Ananas Victoria pressé minute avec feuilles de menthe fraîche et glaçons.",
+            "price": "500 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "al-boustan",
+    "name": "Restaurant Al Boustan",
+    "cuisine": [
+      "Authentic Lebanese",
+      "Middle Eastern & Seafood"
+    ],
+    "address": "Bois des Arcades, Riadh El Feth, El Madania, 16075 Alger, Algeria",
+    "phone": "+213 21 66 92 71",
+    "hours": {
+      "monday": "12:00 - 23:30",
+      "tuesday": "12:00 - 23:30",
+      "wednesday": "12:00 - 23:30",
+      "thursday": "12:00 - 23:30",
+      "friday": "13:00 - 23:30",
+      "saturday": "12:00 - 23:30",
+      "sunday": "12:00 - 23:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/alboustanalger",
+      "instagram": "https://www.instagram.com/alboustan_alger"
+    },
+    "branding": {
+      "color_palette": [
+        "#1B4332",
+        "#E9C46A",
+        "#D8F3DC",
+        "#F4F1DE"
+      ],
+      "aesthetic_keywords": [
+        "Panoramic bay view",
+        "Lush cedar garden",
+        "Diplomatic institution",
+        "Levantine banqueting",
+        "Sunset terrace"
+      ],
+      "logo_description": "Stylized golden Lebanese cedar crest entwined with an olive branch, centered above classic Arabic and Latin typography."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Grand Mezzé Libanais Froid",
+            "description": "Assortiment de 5 spécialités : Hommos crémeux à la tahina, Moutabal d'aubergines fumées, Taboulé libanais au persil plat, Salade Fattouche au sumac et Waraq Enab (feuilles de vigne farcies).",
+            "price": "2,200 DZD"
+          },
+          {
+            "name": "Assortiment de Mezzés Chauds",
+            "description": "Plateau dégustation de Kébbé croustillant à la viande hachée, Sambousek d'agneau, Fatayer aux épinards et tranches de fromage Halloumi grillé.",
+            "price": "1,800 DZD"
+          },
+          {
+            "name": "Salade Fattouche au Pain Grillé",
+            "description": "Légumes croquants du potager, pain libanais croustillant, mélasse de grenade aigre-douce et sumac pourpre.",
+            "price": "900 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Mashawi Mix Grill Beyrouthin",
+            "description": "Brochettes de Chich Taouk de volaille marinée, brochettes de Kafta d'agneau aux herbes, côtelettes d'agneau grillées et galettes chaudes au zaatar.",
+            "price": "3,100 DZD"
+          },
+          {
+            "name": "Méchoui d'Agneau Oriental Al Boustan",
+            "description": "Gigot d'agneau confit aux sept épices libanaises, servi sur lit de riz basmati aux fruits secs et pignons dorés.",
+            "price": "3,400 DZD"
+          },
+          {
+            "name": "Gambas Grillées à la Beyrouthine",
+            "description": "Gambas géantes saisies sur braises, arrosées d'une émulsion d'ail, jus de citron frais et coriandre hachée.",
+            "price": "3,200 DZD"
+          },
+          {
+            "name": "Chawarma d'Agneau à l'Assiette",
+            "description": "Émincés d'agneau mariné rôtis à la broche, sauce tarator au sésame, navets marinés au pourpre et pain pita chaud.",
+            "price": "2,300 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Mouhalabieh au Mastic et Eau de Rose",
+            "description": "Flan libanais soyeux au lait et résine de mastic, nappé d'un sirop à l'eau de rose et généreusement garni d'éclats de pistaches.",
+            "price": "650 DZD"
+          },
+          {
+            "name": "Plateau de Baklawa de Beyrouth",
+            "description": "Fines feuilles de pâte filo croustillantes garnies de noix et pistaches, arrosées de sirop au miel pur d'acacia.",
+            "price": "900 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Signature Drinks",
+        "items": [
+          {
+            "name": "Limonade Libanaise à la Fleur d'Oranger",
+            "description": "Citrons frais pressés avec feuilles de menthe nanah et une larme d'eau de fleur d'oranger artisanale.",
+            "price": "500 DZD"
+          },
+          {
+            "name": "Jallab Traditionnel aux Pignons de Pin",
+            "description": "Boisson libanaise rafraîchissante à base de sirop de dattes, caroube et eau de rose, parsemée de pignons et raisins blonds.",
+            "price": "550 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sfindja",
+    "name": "Restaurant Sfindja",
+    "cuisine": [
+      "Contemporary Mediterranean",
+      "Modern Algerian Fusion"
+    ],
+    "address": "66 Chemin Sfindja, El Biar, 16030 Alger, Algeria",
+    "phone": "+213 770 45 14 18",
+    "hours": {
+      "monday": "11:30 - 15:00, 18:30 - 23:00",
+      "tuesday": "11:30 - 15:00, 18:30 - 23:00",
+      "wednesday": "11:30 - 15:00, 18:30 - 23:00",
+      "thursday": "11:30 - 15:00, 18:30 - 23:00",
+      "friday": "18:30 - 23:00",
+      "saturday": "11:30 - 15:00, 18:30 - 23:00",
+      "sunday": "11:30 - 15:00, 18:30 - 23:00"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/SfindjaRestaurant",
+      "instagram": "https://www.instagram.com/sfindjarestaurant"
+    },
+    "branding": {
+      "color_palette": [
+        "#264653",
+        "#2A9D8F",
+        "#E76F51",
+        "#F8F9FA"
+      ],
+      "aesthetic_keywords": [
+        "Contemporary refinement",
+        "Botanical terrace",
+        "Bistronomic creativity",
+        "Zen minimalism",
+        "Diplomatic El Biar elegance"
+      ],
+      "logo_description": "Clean modern geometric typeface with an organic curving olive leaf branch accenting the initial letter 'S'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Raviolis Artisanaux aux Crevettes Tigrées",
+            "description": "Pâtes faites à la main farcies aux crevettes fraîches et herbes, servies dans une bisque onctueuse safranée.",
+            "price": "1,400 DZD"
+          },
+          {
+            "name": "Burrata Crémeuse & Tomates Confites",
+            "description": "Burrata fraîche sur carpaccio de tomates anciennes confites au four, pesto de roquette et pignons torréfiés.",
+            "price": "1,600 DZD"
+          },
+          {
+            "name": "Velouté de Courge Musquée et Châtaignes",
+            "description": "Courge de saison rôtie au thym, éclats de châtaignes poêlées et filet d'huile de noix vierge.",
+            "price": "950 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Berkoukes Gastronomique au Coq Fermier",
+            "description": "Petits plombs artisanaux mijotés dans un bouillon corsé aux épices locales avec morceaux fondants de coq fermier et légumes racines.",
+            "price": "2,300 DZD"
+          },
+          {
+            "name": "Fettuccine Sfindja au Bœuf et Jus Rôti",
+            "description": "Pâtes ruban fraîches, émincé de bœuf tendre saisi au beurre, réduction de jus rôti et mélange de champignons sauvages.",
+            "price": "2,200 DZD"
+          },
+          {
+            "name": "Lasagnes Al Forno au Veau Braisé",
+            "description": "Feuilles de pâtes fraîches superposées avec effiloché de veau mijoté 6 heures, béchamel veloutée et parmesan gratiné.",
+            "price": "1,900 DZD"
+          },
+          {
+            "name": "Filet de Daurade Royale & Mousseline de Panais",
+            "description": "Daurade royale poêlée sur peau croustillante, mousseline de panais au beurre noisette et petits légumes glacés.",
+            "price": "2,700 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Glace Maison Vanille Bourbon & Caramel Chaud",
+            "description": "Glace turbinée sur place aux véritables gousses de vanille, servie avec caramel au beurre salé chaud et tuile aux amandes.",
+            "price": "650 DZD"
+          },
+          {
+            "name": "Tiramisu Traditionnel au Mascarpone",
+            "description": "Recette classique italienne au mascarpone fouetté, biscuits à la cuillère trempés dans un espresso serré et cacao amer.",
+            "price": "750 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Mocktail Sfindja Zen Détox",
+            "description": "Concombre fraîchement extrait, jus de pomme verte acidulée, basilic frais froissé et pointe de jus de citron vert.",
+            "price": "600 DZD"
+          },
+          {
+            "name": "Thé Glacé Maison Pêche & Thym Sauvage",
+            "description": "Thé noir infusé à froid avec morceaux de pêches mûres et une branche de thym frais de l'Atlas.",
+            "price": "450 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chez-sauveur",
+    "name": "Restaurant Chez Sauveur",
+    "cuisine": [
+      "Traditional Seafood",
+      "Coastal Algerian Maritime"
+    ],
+    "address": "Port El Djamila (La Madrague), Aïn Benian, 16041 Alger, Algeria",
+    "phone": "+213 661 55 00 83",
+    "hours": {
+      "monday": "12:00 - 16:00, 19:00 - 23:30",
+      "tuesday": "12:00 - 16:00, 19:00 - 23:30",
+      "wednesday": "12:00 - 16:00, 19:00 - 23:30",
+      "thursday": "12:00 - 16:00, 19:00 - 23:30",
+      "friday": "13:00 - 23:30",
+      "saturday": "12:00 - 16:00, 19:00 - 23:30",
+      "sunday": "12:00 - 16:00, 19:00 - 23:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/chezsauveurlamadrague",
+      "instagram": "https://www.instagram.com/chez_sauveur_officiel"
+    },
+    "branding": {
+      "color_palette": [
+        "#9E2A2B",
+        "#335C67",
+        "#E09F3E",
+        "#FFF3B0"
+      ],
+      "aesthetic_keywords": [
+        "Historic portside institution",
+        "Iconic seafood since 1960",
+        "Fisherman harbor vibe",
+        "Unpretentious authentic gastronomy",
+        "Coastal Mediterranean charm"
+      ],
+      "logo_description": "Vintage round coastal emblem featuring a wooden ship helm surrounding bold cursive lettering 'Chez Sauveur - Depuis 1960'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Crevettes Culte à la Sauce Rouge Piquante",
+            "description": "Spécialité légendaire du restaurant depuis plus de 60 ans : crevettes de roche mijotées dans une sauce rouge épicée à l'ail et piment fort.",
+            "price": "1,900 DZD"
+          },
+          {
+            "name": "Salade de Calamars Frais Marinés",
+            "description": "Anneaux de calamars tendres cuits au court-bouillon, assaisonnés d'ail haché, persil plat et huile d'olive de première pression.",
+            "price": "1,200 DZD"
+          },
+          {
+            "name": "Bourek de la Madrague aux Crevettes",
+            "description": "Croustillant de dioul garni d'une béchamel fine aux petits morceaux de crevettes roses et fromage râpé.",
+            "price": "550 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Loup de Mer Sauvage Grillé au Feu de Bois",
+            "description": "Loup de mer fraîchement débarqué au port de la Madrague, cuit sur la braise avec herbes marines et quartier de citron.",
+            "price": "2,900 DZD"
+          },
+          {
+            "name": "Pavé d'Espadon Frais à la Plancha",
+            "description": "Steak d'espadon épais mariné aux aromates de bord de mer, grillé à point et servi avec frites maison.",
+            "price": "2,500 DZD"
+          },
+          {
+            "name": "Rougets de Roche Poêlés à l'Ail",
+            "description": "Petits rougets de roche pêchés localement, poêlés à l'huile d'olive avec gousses d'ail entières et persil frais.",
+            "price": "2,400 DZD"
+          },
+          {
+            "name": "Tagliatelles aux Fruits de Mer en Sauce Tomate",
+            "description": "Pâtes longues nappées d'une sauce mijotée aux tomates fraîches, moules, crevettes et dés de poisson du jour.",
+            "price": "2,100 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Tartelette Artisanale aux Fruits de Saison",
+            "description": "Fond de pâte sablée croustillant, crème pâtissière légère et fruits frais de saison nappés de gelée de pomme.",
+            "price": "600 DZD"
+          },
+          {
+            "name": "Sorbet Plein Fruit Citron Vert de Mitidja",
+            "description": "Sorbet artisanal rafraîchissant préparé avec le jus des vergers de la Mitidja.",
+            "price": "500 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Citronnade de la Madrague à la Menthe",
+            "description": "Jus de citron frais préparé minute avec feuilles de menthe fraîche et glaçons.",
+            "price": "400 DZD"
+          },
+          {
+            "name": "Eau Minérale Gazeuse Ifri 1L",
+            "description": "Bouteille d'eau gazeuse pure des sources du Djurdjura.",
+            "price": "250 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "la-scala",
+    "name": "Restaurant La Scala",
+    "cuisine": [
+      "French Fine Dining",
+      "Mediterranean Continental"
+    ],
+    "address": "01 Boulevard du 11 Décembre 1960, Résidence Zemoun Youcef, El Biar, 16030 Alger, Algeria",
+    "phone": "+213 561 03 80 04",
+    "hours": {
+      "monday": "12:00 - 15:00, 19:00 - 23:00",
+      "tuesday": "12:00 - 15:00, 19:00 - 23:00",
+      "wednesday": "12:00 - 15:00, 19:00 - 23:00",
+      "thursday": "12:00 - 15:00, 19:00 - 23:00",
+      "friday": "18:00 - 23:00",
+      "saturday": "12:00 - 15:00, 19:00 - 23:00",
+      "sunday": "12:00 - 15:00, 19:00 - 23:00"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/lascala.elbiar",
+      "instagram": "https://www.instagram.com/lascala_elbiar"
+    },
+    "branding": {
+      "color_palette": [
+        "#1C1917",
+        "#D4AF37",
+        "#44403C",
+        "#FAFAF9"
+      ],
+      "aesthetic_keywords": [
+        "Operatic elegance",
+        "Haute gastronomie",
+        "Diplomatic discretion",
+        "Refined luxury interior",
+        "Crystal chandeliers"
+      ],
+      "logo_description": "Classical gold emblem featuring a stylized theatrical lyric harp monogram above pristine serif letters reading 'LA SCALA EL BIAR'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Carpaccio de Saumon Fumé aux Baies Roses",
+            "description": "Fines tranches de saumon d'Écosse fumé au bois de chêne, crème fouettée à l'aneth et baies roses concassées.",
+            "price": "1,600 DZD"
+          },
+          {
+            "name": "Salade Périgourdine Gourmande",
+            "description": "Gésiers de canard confits tièdes, copeaux de foie gras de canard, cerneaux de noix et vinaigrette à la moutarde ancienne.",
+            "price": "1,800 DZD"
+          },
+          {
+            "name": "Gratinée à l'Oignon à l'Ancienne",
+            "description": "Soupe réconfortante aux oignons caramélisés au beurre, bouillon de bœuf, croûtons dorés et fromage de gruyère gratiné.",
+            "price": "950 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Tournedos Rossini au Jus de Truffe",
+            "description": "Cœur de filet de bœuf tendre surmonté d'une escalope de foie gras poêlée et d'une réduction veloutée au jus de truffe.",
+            "price": "3,900 DZD"
+          },
+          {
+            "name": "Carré d'Agneau en Croûte d'Herbes de Provence",
+            "description": "Côtelettes d'agneau rôties en croûte de chapelure persillée au romarin, servies avec un tian de légumes confits.",
+            "price": "3,400 DZD"
+          },
+          {
+            "name": "Paella Royale Valencienne Revisitée",
+            "description": "Riz bomba cuisiné au bouillon safrané, morceaux de poulet fermier, gambas royales et langoustines fraîches.",
+            "price": "3,100 DZD"
+          },
+          {
+            "name": "Filet de Bar Sauvage en Croûte de Sel",
+            "description": "Poisson noble cuit sous sa coque de sel marin pour préserver toute sa chair moelleuse, servi avec beurre blanc citronné.",
+            "price": "3,200 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Soufflé Chaud au Grand Marnier",
+            "description": "Soufflé aérien préparé à la minute, parfumé aux liqueurs d'agrumes et saupoudré de sucre glace.",
+            "price": "850 DZD"
+          },
+          {
+            "name": "Moelleux Chocolat Noir & Cœur Pistache",
+            "description": "Gâteau moelleux au cacao pur d'origine avec cœur coulant à la pâte de pistache pure, boule de glace vanille.",
+            "price": "800 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Cocktail Signature La Scala",
+            "description": "Mélange raffiné de jus de fruits exotiques de la passion, pointe de sirop d'orgeat artisanal et eau gazeuse.",
+            "price": "650 DZD"
+          },
+          {
+            "name": "Café Ristretto Illy d'Exception",
+            "description": "Café italien torréfié d'origine pure servi avec assortiment de chocolats fins.",
+            "price": "450 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dar-zellige",
+    "name": "Restaurant Dar Zellige",
+    "cuisine": [
+      "Traditional Algerian Gastronomy",
+      "Royal Barbecue & Grills"
+    ],
+    "address": "Djenane El Malik, Route N11, Hydra, 16035 Alger, Algeria",
+    "phone": "+213 770 50 07 02",
+    "hours": {
+      "monday": "12:00 - 15:30, 19:30 - 23:30",
+      "tuesday": "12:00 - 15:30, 19:30 - 23:30",
+      "wednesday": "12:00 - 15:30, 19:30 - 23:30",
+      "thursday": "12:00 - 15:30, 19:30 - 23:30",
+      "friday": "13:30 - 23:30",
+      "saturday": "12:00 - 15:30, 19:30 - 23:30",
+      "sunday": "12:00 - 15:30, 19:30 - 23:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/darzelligepiscine",
+      "instagram": "https://www.instagram.com/darzellige_hydra"
+    },
+    "branding": {
+      "color_palette": [
+        "#0E4D92",
+        "#E6AF2E",
+        "#1D2D44",
+        "#F0EBD8"
+      ],
+      "aesthetic_keywords": [
+        "Poolside palace",
+        "Andalusian zellige tilework",
+        "Regal Algerian hospitality",
+        "Illuminated courtyard",
+        "Ancestral charcoal roasting"
+      ],
+      "logo_description": "Intricate eight-pointed Moorish-Andalusian Zellige geometric tile motif in cobalt and gold enclosing calligraphic script 'Dar Zellige'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Chorba Frik au Mouton Fermier",
+            "description": "Soupe traditionnelle algérienne mijotée longuement dans un faitout en terre cuite avec viande de mouton tendre, blé concassé et coriandre.",
+            "price": "700 DZD"
+          },
+          {
+            "name": "Plateau Zellige de Mhadjeb & Brik",
+            "description": "Assortiment de crêpes fines feuilletées garnies d'oignons et tomates confits, et brik triangulaire à l'œuf mollet.",
+            "price": "800 DZD"
+          },
+          {
+            "name": "Zviti Traditionnel au Mehrez en Bois",
+            "description": "Plat chaud emblématique de Boussaâda pilé au pilon de bois d'olivier avec galette émiettée, tomates braisées, ail, piments et coriandre.",
+            "price": "1,100 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Méchoui Boussaadi à la Broche",
+            "description": "Quartier d'agneau entier mariné au cumin et sel gemme, cuit lentement à la broche au feu de bois pour une viande confite et fondante.",
+            "price": "3,200 DZD"
+          },
+          {
+            "name": "Merdouma de Gigot d'Agneau à l'Étouffée",
+            "description": "Technique de cuisson saharienne ancestrale : gigot enfoui sous terre aux braises ardentes avec bouquet d'herbes aromatiques.",
+            "price": "3,500 DZD"
+          },
+          {
+            "name": "Côtes d'Agneau Grillées au Romarin du Jardin",
+            "description": "Quatre côtelettes d'agneau fraîches saisies sur le grill extérieur au charbon de bois, aromatisées au romarin frais.",
+            "price": "2,600 DZD"
+          },
+          {
+            "name": "Paella Impériale aux Gambas Géantes",
+            "description": "Riz espagnol parfumé au safran, grosses gambas, rondelles de calmar et langoustines préparées pour les tablées conviviales.",
+            "price": "3,000 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Corbeille de Gâteaux Fins Algériens",
+            "description": "Sélection de douceurs festives : Makroudh au miel de fleur d'oranger, Dziriette amande et Samsa triangulaire croustillante.",
+            "price": "950 DZD"
+          },
+          {
+            "name": "Salade de Fruits Frais à l'Eau de Rose",
+            "description": "Fruits de saison découpés en dés et parfumés d'une infusion d'eau de rose de Damas et d'une pointe de cannelle.",
+            "price": "600 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Cérémonie du Thé à la Menthe Dar Zellige",
+            "description": "Thé vert à la menthe fraîche servi depuis une théière en cuivre argenté martelée à la main sur plateau ciselé.",
+            "price": "500 DZD"
+          },
+          {
+            "name": "Cocktail Rafraîchissant Zellige Grenade",
+            "description": "Jus pur de grenade pressée, traits d'eau de fleur d'oranger artisanale et eau gazéifiée fraîche.",
+            "price": "550 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dar-yemma-casbah",
+    "name": "Restaurant Dar Yemma Casbah",
+    "cuisine": [
+      "Casbah Ancestral Cuisine",
+      "Traditional Algerian Comfort Food"
+    ],
+    "address": "6 Rue Larbi Triki, Casbah, 16017 Alger, Algeria",
+    "phone": "+213 550 98 08 50",
+    "hours": {
+      "monday": "11:30 - 16:30",
+      "tuesday": "11:30 - 16:30",
+      "wednesday": "11:30 - 16:30",
+      "thursday": "11:30 - 18:00",
+      "friday": "Closed",
+      "saturday": "11:30 - 16:30",
+      "sunday": "11:30 - 16:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/daryemmacasbah",
+      "instagram": "https://www.instagram.com/dar_yemma_casbah"
+    },
+    "branding": {
+      "color_palette": [
+        "#A8422B",
+        "#F3C68F",
+        "#4A3B32",
+        "#FFFBF2"
+      ],
+      "aesthetic_keywords": [
+        "UNESCO Casbah heritage",
+        "Maternal home cooking",
+        "Copper sniwa service",
+        "Nostalgic authenticity",
+        "Historic Ottoman townhouse"
+      ],
+      "logo_description": "Warm folk-art silhouette of an Algerian grandmother (Yemma) wearing a traditional Hayek, framed by historic Casbah window woodwork."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Hmiss Traditionnel au Mortier & Kesra Chaude",
+            "description": "Poivrons verts doux et piquants grillés sur flamme, pilés avec tomates mûres, ail et généreux filet d'huile d'olive de Kabylie, servi avec galette kesra tiède.",
+            "price": "600 DZD"
+          },
+          {
+            "name": "Batata Mchermla aux Épices Douces",
+            "description": "Pommes de terre fondantes mijotées avec ail écrasé, carvi moulu, coriandre fraîche et paprika doux.",
+            "price": "500 DZD"
+          },
+          {
+            "name": "Zaalouk d'Aubergines de la Casbah",
+            "description": "Purée rustique d'aubergines cuites à la vapeur puis revenues à l'huile d'olive, ail et cumin oriental.",
+            "price": "550 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Rechta Algéroise Faite Maison",
+            "description": "Pâtes fines fraîches découpées à la main dans la Casbah, poulet fermier doré, navets blancs fondants et sauce blanche à la cannelle.",
+            "price": "1,600 DZD"
+          },
+          {
+            "name": "Couscous Ancestral aux Sept Légumes",
+            "description": "Semoule de blé dur tamisée à la main, épaule d'agneau tendre mijotée, courgettes, carottes, navets, pois chiches et courge rouge.",
+            "price": "1,900 DZD"
+          },
+          {
+            "name": "Chentouf El 3azeb Traditionnel",
+            "description": "Plat algérois d'antan oublié : morceaux de viande de veau mijotés longuement avec pois chiches et sauce onctueuse parfumée au poivre noir et cannelle.",
+            "price": "1,800 DZD"
+          },
+          {
+            "name": "Chtitha Djedj à la Dersa Rouge",
+            "description": "Morceaux de poulet fermier mijotés dans une sauce rouge pimentée préparée avec la درسة (ail, piment sec pilé et cumin).",
+            "price": "1,700 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Tamina Dorée au Miel Pur & Cannelle",
+            "description": "Semoule grillée à la poêle mélangée à du beurre fondu et miel pur, décorée de motifs traditionnels à la cannelle.",
+            "price": "500 DZD"
+          },
+          {
+            "name": "M'halbi de la Casbah à la Poudre de Riz",
+            "description": "Entremets doux au lait et riz moulu parfumé à l'eau de rose et parsemé d'amandes hachées.",
+            "price": "450 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Thé Vert Casbadji aux Pignons Torréfiés",
+            "description": "Thé à la menthe fraîche servi très chaud avec des pignons de pin légèrement dorés à la poêle.",
+            "price": "350 DZD"
+          },
+          {
+            "name": "Cherbet Casbah au Citron Pressé",
+            "description": "Recette artisanale de limonade algéroise avec zeste râpé et pointe de lait entier.",
+            "price": "300 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "la-palmeraie",
+    "name": "Restaurant La Palmeraie",
+    "cuisine": [
+      "Traditional Maghrebi",
+      "Andalusian & Moroccan Haute Cuisine"
+    ],
+    "address": "Villa 313, Coopérative El Moustakbel, Aïn Allah, Dely Ibrahim, 16047 Alger, Algeria",
+    "phone": "+213 562 36 36 36",
+    "hours": {
+      "monday": "12:00 - 00:00",
+      "tuesday": "12:00 - 00:00",
+      "wednesday": "12:00 - 00:00",
+      "thursday": "12:00 - 00:00",
+      "friday": "14:00 - 00:00",
+      "saturday": "12:00 - 00:00",
+      "sunday": "12:00 - 00:00"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/lapalmeraiealger",
+      "instagram": "https://www.instagram.com/restaurant_la_palmeraie"
+    },
+    "branding": {
+      "color_palette": [
+        "#2D5A27",
+        "#C99700",
+        "#78281F",
+        "#FBF7F0"
+      ],
+      "aesthetic_keywords": [
+        "Oriental oasis palace",
+        "Andalusian riad courtyard",
+        "Berber rugs and lanterns",
+        "Family celebratory banquets",
+        "Fragrant oriental spices"
+      ],
+      "logo_description": "Graceful twin golden date palm fronds crowning an arching calligraphy of 'La Palmeraie' in warm deep emerald."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Pastilla Royale au Pigeon et Amandes",
+            "description": "Feuilletage ultra-fin croustillant garni de chair de pigeon effilochée, amandes grillées concassées, parfumée à la cannelle et sucre glace.",
+            "price": "1,600 DZD"
+          },
+          {
+            "name": "Trio de Salades Marocaines de Fès",
+            "description": "Zaalouk d'aubergines mijotées, Taktouka de poivrons rouges et salade de carottes cuites au jus d'orange et cumin.",
+            "price": "900 DZD"
+          },
+          {
+            "name": "Harira Impériale aux Dattes Majhoul",
+            "description": "Soupe veloutée aux lentilles, pois chiches, céleri frais et dés de viande, servie avec dattes fraîches et quartiers de citron.",
+            "price": "650 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Tajine d'Agneau Mrouzia aux Pruneaux",
+            "description": "Plat de fête sucré-salé : collier et jarret d'agneau mijotés au ras-el-hanout, pruneaux moelleux caramélisés au miel et amandes frites.",
+            "price": "2,600 DZD"
+          },
+          {
+            "name": "Tajine de Poulet Fermier au Citron Confit",
+            "description": "Poulet doré cuit dans un plat en terre avec oignons confits, citrons beldi macérés au sel et olives violettes.",
+            "price": "2,200 DZD"
+          },
+          {
+            "name": "Couscous Royal Fassi à la Tfaya",
+            "description": "Semoule extra-fine cuite trois fois à la vapeur, viande d'agneau fondante et garniture tfaya d'oignons caramélisés et raisins secs.",
+            "price": "2,500 DZD"
+          },
+          {
+            "name": "Tanjia Marrakchia Cuite à l'Ancienne",
+            "description": "Jarret de bœuf confit lentement dans une jarre en terre cuite avec cumin, safran pur et beurre rance smen.",
+            "price": "2,700 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Cornes de Gazelle & Douceurs Fassi",
+            "description": "Plateau de cornes de gazelle fines à la pâte d'amande fraîche parfumée à la fleur d'oranger et gâteaux au miel.",
+            "price": "900 DZD"
+          },
+          {
+            "name": "Pastilla Croustillante au Lait (Khenfouch)",
+            "description": "Feuilles de pastilla croustillantes superposées avec une crème au lait parfumée à la fleur d'oranger et amandes grillées.",
+            "price": "750 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Thé Royal à la Menthe et Absinthe (Chiba)",
+            "description": "Thé vert infusé selon la tradition maghrébine avec menthe fraîche et feuilles d'absinthe aromatique.",
+            "price": "400 DZD"
+          },
+          {
+            "name": "Jus d'Avocat Onctueux aux Amandes et Dattes",
+            "description": "Avocat crémeux mixé avec du lait frais, miel pur, dattes fraîches et éclats d'amandes pilées.",
+            "price": "600 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "le-normand",
+    "name": "Restaurant Le Normand",
+    "cuisine": [
+      "French Terroir & Gastronomy",
+      "Historic Brasserie"
+    ],
+    "address": "Rue des Frères Allahoum (ex-1 Rue Tancrède), Alger-Centre, 16000 Alger, Algeria",
+    "phone": "+213 44 19 95 60",
+    "hours": {
+      "monday": "11:30 - 23:30",
+      "tuesday": "11:30 - 23:30",
+      "wednesday": "11:30 - 23:30",
+      "thursday": "11:30 - 23:30",
+      "friday": "18:00 - 23:30",
+      "saturday": "11:30 - 23:30",
+      "sunday": "11:30 - 23:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/lenormandalger",
+      "instagram": "https://www.instagram.com/restaurant_le_normand"
+    },
+    "branding": {
+      "color_palette": [
+        "#5C1D24",
+        "#3D405B",
+        "#E07A5F",
+        "#F4F1DE"
+      ],
+      "aesthetic_keywords": [
+        "Historic French terroir bistro",
+        "Wood-paneled dining room",
+        "Rustic French gastronomy",
+        "Old Algiers architecture",
+        "Hearty culinary tradition"
+      ],
+      "logo_description": "Vintage heraldic crest displaying two Norman lions flanking a classic copper culinary pot with typography 'Le Normand Alger - Maison Fondée'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Escargots de Bourgogne Persillés",
+            "description": "Douzaine d'escargots sauvages préparés au beurre fin d'Isigny, ail haché, persil plat et échalotes grises.",
+            "price": "1,300 DZD"
+          },
+          {
+            "name": "Salade Tiède de Foies de Volaille Déglacés",
+            "description": "Foies de volaille poêlés minute déglacés au vinaigre de framboise sur lit de roquette et croûtons dorés.",
+            "price": "1,100 DZD"
+          },
+          {
+            "name": "Terrine Artisanale de Gibier aux Pistaches",
+            "description": "Terrine préparée maison aux viandes de gibier marinées, pistaches entières et compotée d'oignons doux.",
+            "price": "1,400 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Daube Provençale de Joues de Bœuf",
+            "description": "Joues de bœuf fondantes braisées doucement pendant 8 heures avec carottes nouvelles, ail et bouquet garni.",
+            "price": "2,700 DZD"
+          },
+          {
+            "name": "Queue de Bœuf Braisée à l'Ancienne",
+            "description": "Plat de terroir mijoté jusqu'à détachement de la viande, servi avec mousseline de pommes de terre onctueuse au beurre frais.",
+            "price": "2,500 DZD"
+          },
+          {
+            "name": "Choucroute Royale de la Mer",
+            "description": "Choucroute fine cuisinée garnie de pavé de saumon, dos de cabillaud, grosses crevettes et sauce au beurre blanc.",
+            "price": "2,900 DZD"
+          },
+          {
+            "name": "Perdreau Rôti Farci aux Morilles",
+            "description": "Perdreau entier doré au four, farce fine aux raisins de Corinthe et morilles sauvages poêlées au beurre.",
+            "price": "3,200 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Tarte Tatin Tiède aux Pommes Caramélisées",
+            "description": "Pommes fondantes confites au beurre et sucre caramélisé, pâte brisée croustillante et crème fraîche épaisse d'Isigny.",
+            "price": "800 DZD"
+          },
+          {
+            "name": "Mousse au Chocolat Noir Grand Cru",
+            "description": "Mousse légère et corsée au chocolat noir 70% pur beurre de cacao préparée selon la recette ancestrale.",
+            "price": "650 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Café Filtre à l'Ancienne en Cafetière Émaillée",
+            "description": "Café moulu sélectionné extrait lentement dans une cafetière rétro émaillée.",
+            "price": "350 DZD"
+          },
+          {
+            "name": "Pur Jus de Pommes Pressé de l'Atlas",
+            "description": "Jus pur de pommes acidulées récoltées dans les vergers des montagnes de Blida.",
+            "price": "450 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-auberge-du-moulin",
+    "name": "Restaurant L'Auberge du Moulin",
+    "cuisine": [
+      "Traditional Algerian Mechoui",
+      "Rustic French-Mediterranean"
+    ],
+    "address": "Rue Abane Ramdane, Chéraga, 16014 Alger, Algeria",
+    "phone": "+213 550 15 15 31",
+    "hours": {
+      "monday": "12:00 - 15:30, 19:30 - 23:00",
+      "tuesday": "12:00 - 15:30, 19:30 - 23:00",
+      "wednesday": "12:00 - 15:30, 19:30 - 23:00",
+      "thursday": "12:00 - 15:30, 19:30 - 23:00",
+      "friday": "19:30 - 23:00",
+      "saturday": "12:00 - 15:30, 19:30 - 23:00",
+      "sunday": "12:00 - 15:30, 19:30 - 23:00"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/aubergedumoulinalger",
+      "instagram": "https://www.instagram.com/aubergedumoulinofficiel"
+    },
+    "branding": {
+      "color_palette": [
+        "#582F0E",
+        "#7F4F24",
+        "#A68A64",
+        "#EDE0D4"
+      ],
+      "aesthetic_keywords": [
+        "Historic stone mill",
+        "Wood-burning fireplace",
+        "Legendary slow-roasted mechoui",
+        "Rustic French country inn",
+        "Warm intimate ambiance"
+      ],
+      "logo_description": "Engraved wooden mill wheel motif flanked by ears of wheat and roasting spit forks above serif letters 'L'Auberge du Moulin'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Soupe de Poisson Maison du Moulin",
+            "description": "Soupe épaisse de poissons frais de la baie cuite au chaudron avec rouille safranée et croûtons de pain de campagne frottés à l'ail.",
+            "price": "950 DZD"
+          },
+          {
+            "name": "Poivrons Grillés au Feu de Bois & Huile Vierge",
+            "description": "Poivrons rouges et verts grillés dans la cheminée à bois, épluchés à la main et macérés à l'huile d'olive et ail frais.",
+            "price": "850 DZD"
+          },
+          {
+            "name": "Salade de Chèvre Chaud au Miel de Thym",
+            "description": "Toasts de pain de seigle croustillants nappés de fromage de chèvre fondu, cerneaux de noix et filet de miel de montagne.",
+            "price": "1,200 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Méchoui d'Agneau Rôti au Feu de Bois",
+            "description": "La spécialité culte de la maison depuis des décennies : agneau entier arrosé de marinade à l'huile d'olive, jus de citron et épices, rôti lentement à la broche au feu de bois.",
+            "price": "3,400 DZD"
+          },
+          {
+            "name": "Épaule d'Agneau Confite 8 Heures",
+            "description": "Épaule d'agneau mijotée dans son jus avec gousses d'ail en chemise, oignons grelots et branches de thym frais.",
+            "price": "3,600 DZD"
+          },
+          {
+            "name": "Pavé de Saumon de l'Atlantique Grillé",
+            "description": "Saumon frais saisi sur la grille à bois avec fondue de poireaux à la crème et riz pilaf.",
+            "price": "2,800 DZD"
+          },
+          {
+            "name": "Entrecôte Maturée Grillée au Feu de Bois",
+            "description": "Belle pièce de bœuf persillée cuite à la braise de chêne, servie avec beurre maître d'hôtel et frites maison taillées main.",
+            "price": "3,100 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Tarte Rustique aux Poires et Amandes",
+            "description": "Tarte maison aux poires pochées sur crème d'amandes, saupoudrée d'amandes effilées caramélisées.",
+            "price": "750 DZD"
+          },
+          {
+            "name": "Moelleux Chocolat & Glace à la Châtaigne",
+            "description": "Gâteau chaud au chocolat noir et cœur coulant, servi avec une boule de glace artisanale à la crème de marrons.",
+            "price": "800 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Thé à la Menthe Infusé aux Herbes du Moulin",
+            "description": "Thé vert traditionnel infusé avec de la menthe fraîche cueillie dans le jardin du domaine.",
+            "price": "400 DZD"
+          },
+          {
+            "name": "Eau Minérale Naturelle Gazeuse 1L",
+            "description": "Bouteille d'eau minérale gazeuse locale fraîche.",
+            "price": "300 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bellagiorno",
+    "name": "Restaurant Bellagiorno",
+    "cuisine": [
+      "Artisanal Italian",
+      "Mediterranean Garden Dining"
+    ],
+    "address": "Chemin Saïd Hamdine, Bir Mourad Raïs, 16005 Alger, Algeria",
+    "phone": "+213 560 00 11 03",
+    "hours": {
+      "monday": "10:00 - 23:30",
+      "tuesday": "10:00 - 23:30",
+      "wednesday": "10:00 - 23:30",
+      "thursday": "10:00 - 23:30",
+      "friday": "14:00 - 23:30",
+      "saturday": "10:00 - 23:30",
+      "sunday": "10:00 - 23:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/bellagiornoalger",
+      "website": "https://www.bellagiorno.com",
+      "instagram": "https://www.instagram.com/bellagiorno_alger"
+    },
+    "branding": {
+      "color_palette": [
+        "#2B4C3F",
+        "#D4A373",
+        "#E76F51",
+        "#FAEDCD"
+      ],
+      "aesthetic_keywords": [
+        "Open-air garden lounge",
+        "Wood-fired oven",
+        "Fresh handmade pasta",
+        "Al fresco Mediterranean dining",
+        "Contemporary Italian lifestyle"
+      ],
+      "logo_description": "Modern stylized golden sun emblem radiating sleek artistic rays above flowing Italian typography 'Bellagiorno Restaurant & Lounge'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Carpaccio di Manzo al Parmigiano",
+            "description": "Très fines lamelles de filet de bœuf mariné au citron de Sorrente, huile d'olive vierge, roquette fraîche et copeaux de parmesan 24 mois.",
+            "price": "1,500 DZD"
+          },
+          {
+            "name": "Burrata Crémeuse & Focaccia au Romarin",
+            "description": "Boule entière de burrata crémeuse, concassé de tomates cerises marinées au basilic et focaccia chaude cuite au feu de bois.",
+            "price": "1,800 DZD"
+          },
+          {
+            "name": "Calamari Fritti alla Romana",
+            "description": "Anneaux et tentacules de calmar frais frits dans une pâte légère croustillante, sauce tartare maison au citron.",
+            "price": "1,400 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Tagliolini Artisanales à la Truffe d'Été",
+            "description": "Pâtes fraîches fabriquées sur place le matin même, émulsion au beurre de truffe, copeaux de truffe d'été et parmesan râpé minute.",
+            "price": "2,400 DZD"
+          },
+          {
+            "name": "Pizza Gourmet Tartufata au Feu de Bois",
+            "description": "Pâte à fermentation lente de 48h, crème de truffe noire, mozzarella fior di latte, champignons sautés et huile de truffe.",
+            "price": "2,100 DZD"
+          },
+          {
+            "name": "Filetto di Spigola alla Ligure",
+            "description": "Filet de bar poêlé aux câpres de Salina, olives taggiasche, tomates cerises confites et pommes de terre fondantes.",
+            "price": "2,800 DZD"
+          },
+          {
+            "name": "Osso Buco alla Milanese & Risotto",
+            "description": "Jarret de veau braisé lentement aux petits légumes et zeste de gremolata, accompagné de son risotto crémeux au safran.",
+            "price": "2,900 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Tiramisu Classique Vénitien",
+            "description": "Véritable mascarpone italien, biscuits savoiardi trempés dans un café espresso serré et saupoudrés de cacao hollandais amer.",
+            "price": "800 DZD"
+          },
+          {
+            "name": "Panna Cotta à la Vanille de Madagascar",
+            "description": "Crème soyeuse prise à froid parfumée aux gousses de vanille et nappe de coulis de framboises fraîches.",
+            "price": "700 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Mocktail Bellagiorno Spritz",
+            "description": "Bitter sans alcool San Pellegrino, jus d'oranges sanguines pressées, tranche d'orange séchée et branche de romarin frais.",
+            "price": "650 DZD"
+          },
+          {
+            "name": "Limonata Artigianale au Basilic Frais",
+            "description": "Citrons frais pressés, sirop de canne et feuilles de basilic frais pilées sur glace.",
+            "price": "500 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "la-trattoria-sheraton",
+    "name": "La Trattoria - Sheraton Club des Pins",
+    "cuisine": [
+      "Upscale Italian",
+      "Mediterranean Coastal Cuisine"
+    ],
+    "address": "Sheraton Club des Pins Resort, Boîte Postale 62, Club des Pins, Staoueli, 16101 Alger, Algeria",
+    "phone": "+213 21 37 77 77",
+    "hours": {
+      "monday": "19:00 - 23:30",
+      "tuesday": "19:00 - 23:30",
+      "wednesday": "19:00 - 23:30",
+      "thursday": "19:00 - 23:30",
+      "friday": "Closed",
+      "saturday": "19:00 - 23:30",
+      "sunday": "19:00 - 23:30"
+    },
+    "social_links": {
+      "website": "https://www.latrattoriaalgiers.com",
+      "facebook": "https://www.facebook.com/SheratonClubdesPins",
+      "instagram": "https://www.instagram.com/sheratonclubdespins"
+    },
+    "branding": {
+      "color_palette": [
+        "#003566",
+        "#FFC300",
+        "#001D3D",
+        "#FFFFFF"
+      ],
+      "aesthetic_keywords": [
+        "Luxury resort coastal dining",
+        "Panoramic sea sunset view",
+        "Italian riviera chic",
+        "Candlelit terrace",
+        "Five-star hotel service"
+      ],
+      "logo_description": "Stylized Italian script reading 'La Trattoria' framed beneath the golden laurel crest of Sheraton Club des Pins Resort."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Vitello Tonnato Classico",
+            "description": "Fines tranches de quasi de veau rôti à froid, sauce crémeuse au thon blanc, câpres sauvages et filets d'anchois.",
+            "price": "1,800 DZD"
+          },
+          {
+            "name": "Insalata di Mare Tiepida",
+            "description": "Salade tiède de fruits de mer (crevettes, calamars, seiche et moules) marinés à l'huile d'olive vierge et jus de citron.",
+            "price": "2,100 DZD"
+          },
+          {
+            "name": "Bruschetta Gourmet alla Mozzarella di Bufala",
+            "description": "Pain de campagne toasté frotté à l'ail, tomates San Marzano concassées, mozzarella di bufala et feuilles de basilic frais.",
+            "price": "1,200 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Carré d'Agneau Local Grillé aux Herbes",
+            "description": "Carré d'agneau tendre grillé à la flamme, jus réduit au romarin et légumes du soleil rôtis à l'huile d'olive.",
+            "price": "3,800 DZD"
+          },
+          {
+            "name": "Filet de Bar Poêlé à la Méditerranéenne",
+            "description": "Filet de bar frais poêlé unilatéral, écrasé de pommes de terre à l'huile d'olive et tombée de courgettes marinées.",
+            "price": "3,400 DZD"
+          },
+          {
+            "name": "Risotto ai Frutti di Mare",
+            "description": "Riz carnaroli crémeux cuisiné au fumet de poisson, gambas royales, moules fraîches et anneaux de calmar.",
+            "price": "3,200 DZD"
+          },
+          {
+            "name": "Pizza Frutti di Mare al Forno",
+            "description": "Pizza artisanale étalée à la main, sauce tomate San Marzano, mozzarella, crevettes, calamars et origan sauvage.",
+            "price": "2,400 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Panna Cotta Infusée au Romarin",
+            "description": "Crème douce infusée d'une branche de romarin frais du jardin du resort et coulis acidulé de fruits rouges.",
+            "price": "850 DZD"
+          },
+          {
+            "name": "Trio de Cannoli Siciliens Artisanaux",
+            "description": "Rouleaux de pâte croustillants garnis de crème de ricotta sucrée, pépites de chocolat noir et pistaches de Bronte.",
+            "price": "950 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Cocktail Riviera Sunset",
+            "description": "Jus pur de grenade, nectar d'oranges sanguines, eau gazeuse fraîche et zeste d'agrumes flambé.",
+            "price": "700 DZD"
+          },
+          {
+            "name": "Bouteille San Pellegrino 75cl",
+            "description": "Eau minérale naturelle pétillante italienne servie fraîche avec quartier de citron.",
+            "price": "500 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "el-mordjane-sofitel",
+    "name": "El Mordjane - Sofitel Algiers Hamma Garden",
+    "cuisine": [
+      "Traditional Algerian Gastronomy",
+      "Luxury Hotel Fine Dining"
+    ],
+    "address": "Sofitel Algiers Hamma Garden, 172 Rue Hassiba Benbouali, Hamma, 16015 Alger, Algeria",
+    "phone": "+213 21 68 52 10",
+    "hours": {
+      "monday": "19:00 - 23:00",
+      "tuesday": "19:00 - 23:00",
+      "wednesday": "19:00 - 23:00",
+      "thursday": "19:00 - 23:00",
+      "friday": "19:00 - 23:00",
+      "saturday": "19:00 - 23:00",
+      "sunday": "19:00 - 23:00"
+    },
+    "social_links": {
+      "website": "https://all.accor.com/hotel/1540/index.fr.shtml",
+      "facebook": "https://www.facebook.com/SofitelAlgiersHammaGarden",
+      "instagram": "https://www.instagram.com/sofitelalgiers"
+    },
+    "branding": {
+      "color_palette": [
+        "#C5A059",
+        "#780016",
+        "#1A1A1A",
+        "#F8F6F0"
+      ],
+      "aesthetic_keywords": [
+        "Five-star luxury",
+        "Botanical garden vista",
+        "Classical Andalusian lute music",
+        "Diplomatic protocol",
+        "Haute cuisine algéroise"
+      ],
+      "logo_description": "Sofitel luxury link geometric geometric knot in brushed champagne gold hovering above elegant serif typography 'El Mordjane'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Chorba Frik Impériale à l'Agneau",
+            "description": "Bouillon raffiné de blé vert concassé aux morceaux tendres de gigot d'agneau, légumes finement brunoise et menthe séchée.",
+            "price": "1,100 DZD"
+          },
+          {
+            "name": "Trilogie de Boureks Algérois Sofitel",
+            "description": "Trois rouleaux croustillants de dioul : viande hachée aux pignons, crevettes à l'aneth et fromage frais fermier aux herbes.",
+            "price": "1,200 DZD"
+          },
+          {
+            "name": "Salade d'Oranges Amères & Carottes au Cumin",
+            "description": "Entrée fraîche et parfumée de fines rondelles de carottes étuvées, suprêmes d'oranges et vinaigrette au cumin de Tindouf.",
+            "price": "950 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Rechta Algéroise de Fête au Suprême de Volaille",
+            "description": "Fines lanières de pâtes fraîches cuites à la vapeur, suprême de volaille fermière rôti, navets fondants et sauce blanche à la cannelle.",
+            "price": "2,800 DZD"
+          },
+          {
+            "name": "Couscous d'Orge aux Médaillons d'Agneau",
+            "description": "Couscous traditionnel d'orge aux légumes de saison inspirés du Jardin d'Essai d'El Hamma et agneau cuit à basse température.",
+            "price": "3,200 DZD"
+          },
+          {
+            "name": "Tajine de Daurade Royale aux Amandes",
+            "description": "Poisson noble cuit à l'étouffée avec amandes effilées, raisins blonds de Mascara et miel pur de jujubier.",
+            "price": "3,100 DZD"
+          },
+          {
+            "name": "Lham Lahlou Gastronomique aux Dattes Farcies",
+            "description": "Viande de veau caramélisée dans son sirop parfumé, pruneaux, abricots secs et dattes Deglet Nour farcies de pâte d'amande fraîche.",
+            "price": "2,600 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Plateau de Haute Pâtisserie Algéroise Sofitel",
+            "description": "Assortiment d'œuvres sucrées d'artisanat : corne de gazelle dorée, dziriette royale aux amandes et baklawa aux noix.",
+            "price": "1,200 DZD"
+          },
+          {
+            "name": "M'halbi Royal à l'Eau de Fleur de Blida",
+            "description": "Crème légère de riz parfumée à l'eau de fleur d'oranger artisanale de Blida, cannelle et éclats de pistaches.",
+            "price": "750 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Cérémonie du Thé à la Menthe & Pignons Royaux",
+            "description": "Thé vert gunpowder infusé à la menthe nanah fraîche, servi dans des verres dorés à l'or fin avec pignons de pin torréfiés.",
+            "price": "600 DZD"
+          },
+          {
+            "name": "Nectar Pressé d'Agrumes de la Mitidja",
+            "description": "Jus pur d'oranges et mandarines fraîchement cueillies dans les plaines de la Mitidja.",
+            "price": "650 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "le-bearnais",
+    "name": "Restaurant Le Béarnais",
+    "cuisine": [
+      "Classic French",
+      "Steak & Seafood Brasserie"
+    ],
+    "address": "5 Rue Ahmed et Boualem Khalfi, Alger-Centre, 16000 Alger, Algeria",
+    "phone": "+213 21 63 03 07",
+    "hours": {
+      "monday": "12:00 - 22:30",
+      "tuesday": "12:00 - 22:30",
+      "wednesday": "12:00 - 22:30",
+      "thursday": "12:00 - 22:30",
+      "friday": "12:00 - 14:30, 18:00 - 22:30",
+      "saturday": "12:00 - 22:30",
+      "sunday": "12:00 - 22:30"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/lebearnaisalger",
+      "instagram": "https://www.instagram.com/lebearnaisalger"
+    },
+    "branding": {
+      "color_palette": [
+        "#4A0E17",
+        "#D4AF37",
+        "#2B2D42",
+        "#F4F1DE"
+      ],
+      "aesthetic_keywords": [
+        "Historic French institution",
+        "Haussmannian brasserie",
+        "Dark wood and leather banquettes",
+        "Intimate candlelit dinners",
+        "Generous traditional cooking"
+      ],
+      "logo_description": "Traditional Pyrenean Béarn cattle horn crest in deep copper above classic antique serif font 'Le Béarnais'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Salade Landaise aux Gésiers Tièdes",
+            "description": "Mesclun croquant, gésiers de canard confits chauds, tranches de magret fumé et vinaigrette à l'échalote.",
+            "price": "1,400 DZD"
+          },
+          {
+            "name": "Coquille de Poisson & Fruits de Mer Gratinée",
+            "description": "Morceaux de poissons nobles et crevettes gratinés au four dans une sauce veloutée à la crème et emmental.",
+            "price": "1,700 DZD"
+          },
+          {
+            "name": "Carpaccio de Filet de Bœuf au Parmesan",
+            "description": "Fines tranches de filet de bœuf cru assaisonnées d'huile d'olive extra vierge, câpres et copeaux de parmesan.",
+            "price": "1,300 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Entrecôte Grillée Façon Béarnaise",
+            "description": "Généreuse pièce d'entrecôte de bœuf grillée sur braises, sauce béarnaise maison montée à l'estragon et frites fraîches.",
+            "price": "2,900 DZD"
+          },
+          {
+            "name": "Filet de Loup Poêlé au Fenouil Braisé",
+            "description": "Filet de loup de mer poêlé à l'huile d'olive, fenouil braisé au jus d'agrumes et écrasé de pommes rattes.",
+            "price": "2,700 DZD"
+          },
+          {
+            "name": "Paella Traditionnelle Riche en Crustacés",
+            "description": "Riz doré au safran avec crevettes fraîches, moules de roche, morceaux de poisson blanc et petits pois doux.",
+            "price": "2,800 DZD"
+          },
+          {
+            "name": "Rognons de Veau Flambés à la Moutarde de Dijon",
+            "description": "Rognons de veau frais sautés au beurre, flambés au cognac et nappés d'une sauce crémeuse à la moutarde forte.",
+            "price": "2,400 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Profiteroles Artisanales au Chocolat Fondu",
+            "description": "Trois choux garnis de glace vanille artisanale, nappés d'un riche coulis de chocolat noir chaud et chantilly.",
+            "price": "800 DZD"
+          },
+          {
+            "name": "Crème Caramel Renversée à l'Ancienne",
+            "description": "Crème aux œufs frais et lait entier cuite au bain-marie, généreux caramel ambré liquide.",
+            "price": "600 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages",
+        "items": [
+          {
+            "name": "Café Gourmand Le Béarnais",
+            "description": "Espresso serré accompagné d'une mini tartelette, un macaron et une verrine de mousse chocolat.",
+            "price": "550 DZD"
+          },
+          {
+            "name": "Jus d'Oranges Fraîches Pressées",
+            "description": "Oranges mûres pressées à la commande servies bien fraîches.",
+            "price": "450 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "beef-cote-steakhouse",
+    "name": "Beef Côte Steakhouse",
+    "cuisine": [
+      "Premium Steakhouse",
+      "Artisanal Charcoal Grills"
+    ],
+    "address": "7 Boulevard du 11 Décembre 1960, Val d'Hydra, El Biar, 16030 Alger, Algeria",
+    "phone": "+213 554 22 22 45",
+    "hours": {
+      "monday": "12:00 - 02:00",
+      "tuesday": "12:00 - 02:00",
+      "wednesday": "12:00 - 02:00",
+      "thursday": "12:00 - 02:00",
+      "friday": "16:00 - 02:00",
+      "saturday": "12:00 - 02:00",
+      "sunday": "12:00 - 02:00"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/Beefcotealger",
+      "instagram": "https://www.instagram.com/beefcote_steakhouse"
+    },
+    "branding": {
+      "color_palette": [
+        "#1A1A1A",
+        "#8D0801",
+        "#D4AF37",
+        "#495057"
+      ],
+      "aesthetic_keywords": [
+        "Modern meat atelier",
+        "Industrial steakhouse chic",
+        "Dry-aged beef display",
+        "Open charcoal flame",
+        "Metropolitan night ambiance"
+      ],
+      "logo_description": "Bold minimalist bullhead silhouette with razor-sharp golden horns intertwined with crossed butcher knives above 'BEEF CÔTE'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Burrata Crémeuse Fumée au Bois de Hêtre",
+            "description": "Burrata entière fumée minute sous cloche de verre, carpaccio de tomates de collection et réduction balsamique vieillie.",
+            "price": "1,600 DZD"
+          },
+          {
+            "name": "Tartare de Filet de Bœuf au Couteau",
+            "description": "Filet de bœuf taillé au couteau, assaisonnement classique aux câpres, échalotes, moutarde à l'ancienne et jaune d'œuf de caille.",
+            "price": "1,700 DZD"
+          },
+          {
+            "name": "Hmiss Fumé au Feu de Bois & Pain Toasté",
+            "description": "Poivrons et tomates braisés au charbon de bois, ail confit et huile d'olive vierge, servi avec pain brioché toasté.",
+            "price": "800 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Tomahawk Steak d'Exception (Pour Deux)",
+            "description": "Pièce magistrale de bœuf maturé 28 jours sur os de 1.2kg, grillée sur braises ardentes avec beurre aux herbes et fleur de sel.",
+            "price": "8,500 DZD"
+          },
+          {
+            "name": "Côte de Bœuf Black Angus 500g",
+            "description": "Côte de bœuf persillée saisie à la flamme, servie sur planche de bois avec purée maison à la truffe et sauce poivre.",
+            "price": "4,200 DZD"
+          },
+          {
+            "name": "T-Bone Steak Grillé à la Flamme",
+            "description": "Double découpe offrant à la fois filet et faux-filet grillés au charbon de bois, servie avec légumes glacés au beurre.",
+            "price": "3,800 DZD"
+          },
+          {
+            "name": "Burger Gourmet Beef Côte",
+            "description": "Steak haché minute de filet de bœuf 200g, fromage cheddar affiné, oignons caramélisés au thym et frites rustiques.",
+            "price": "2,100 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Cheesecake New-Yorkais aux Fruits de la Passion",
+            "description": "Gâteau au fromage crémeux sur base biscuitée graham cracker et coulis acidulé de fruits de la passion.",
+            "price": "850 DZD"
+          },
+          {
+            "name": "Fondant Chocolat Noir Intense & Glace Vanille",
+            "description": "Gâteau tiède au chocolat 70% coulant à cœur, servi avec boule de glace vanille de Madagascar.",
+            "price": "800 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Signature Drinks",
+        "items": [
+          {
+            "name": "Mocktail Fumé Signature Beef Côte",
+            "description": "Jus de canneberge, jus de citron vert, sirop de gingembre artisanal et fumage minute au bois de romarin sous cloche.",
+            "price": "750 DZD"
+          },
+          {
+            "name": "Mojito Frais Menthe & Sucre Roux",
+            "description": "Feuilles de menthe pilées, jus de lime frais pressé, sucre de canne roux et eau gazeuse pétillante.",
+            "price": "600 DZD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dwiret-el-azz",
+    "name": "Restaurant Dwiret El Azz",
+    "cuisine": [
+      "Traditional Algerian Haute Cuisine",
+      "Heritage Tea Lounge"
+    ],
+    "address": "17 Chemin Abdelkader Gadouche, Hydra, 16035 Alger, Algeria",
+    "phone": "+213 550 07 04 50",
+    "hours": {
+      "monday": "14:00 - 00:00",
+      "tuesday": "14:00 - 00:00",
+      "wednesday": "14:00 - 00:00",
+      "thursday": "14:00 - 00:00",
+      "friday": "15:00 - 00:00",
+      "saturday": "14:00 - 00:00",
+      "sunday": "14:00 - 00:00"
+    },
+    "social_links": {
+      "facebook": "https://www.facebook.com/dwiretelazz",
+      "instagram": "https://www.instagram.com/dwiret_el_azz"
+    },
+    "branding": {
+      "color_palette": [
+        "#49111C",
+        "#D4AF37",
+        "#0F4C5C",
+        "#F8F5EE"
+      ],
+      "aesthetic_keywords": [
+        "17th-century Moorish mansion",
+        "Shaded courtyard gardens",
+        "Illuminated pool and fountain",
+        "Aristocratic Algerian hospitality",
+        "Ancestral luxury dining"
+      ],
+      "logo_description": "Ornate traditional arched doorway with carved wooden Mashrabiya latticework enclosing delicate Arabic calligraphy 'Dwiret El Azz'."
+    },
+    "menu": [
+      {
+        "category": "Starters",
+        "items": [
+          {
+            "name": "Formule El Meida de Crêpes & Douceurs",
+            "description": "Plateau traditionnel servi avec Mhadjeb feuilletées chaudes aux oignons confits et Beghrir aux mille trous nappés de miel et beurre fondu.",
+            "price": "1,200 DZD"
+          },
+          {
+            "name": "Chorba Frik au Gigot d'Agneau",
+            "description": "Soupe impériale au blé vert concassé, morceaux tendres d'agneau et herbes fraîches du jardin de la demeure.",
+            "price": "800 DZD"
+          },
+          {
+            "name": "Trilogie de Salades du Terroir Algérien",
+            "description": "Assiette de dégustation : Hmiss piquant de Constantine, Méchouia grillée au feu de bois et Zaalouk d'aubergines au cumin.",
+            "price": "1,000 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Mains",
+        "items": [
+          {
+            "name": "Formule Royale Dwiret El Azz",
+            "description": "Méchoui d'agneau fermier rôti lentement, tajine sucré-salé aux fruits secs et couscous fin aux légumes du terroir.",
+            "price": "4,200 DZD"
+          },
+          {
+            "name": "Tajine d'Agneau aux Artichauts & Petits Pois",
+            "description": "Morceaux d'agneau fondants mijotés avec cœurs d'artichauts sauvages, petits pois doux et parfum de fleur d'oranger.",
+            "price": "2,600 DZD"
+          },
+          {
+            "name": "Rechta Traditionnelle au Poulet Fermier",
+            "description": "Fines bandelettes de pâtes fraîches maison cuites à la vapeur, morceaux de poulet fermier doré, navets fondants et cannelle.",
+            "price": "2,300 DZD"
+          },
+          {
+            "name": "Grillades Mixtes Impériales sur Brasero",
+            "description": "Assortiment de brochettes d'agneau, côtelettes parfumées au romarin et merguez artisanales servies sur petit brasero de table au charbon de bois.",
+            "price": "3,200 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+          {
+            "name": "Plateau Royal de Pâtisseries Algéroises",
+            "description": "Sélection de trois gâteaux fins de fête : Dziriette aux amandes, M'chewek doré et Samsa croustillante au miel pur d'oranger.",
+            "price": "1,100 DZD"
+          },
+          {
+            "name": "Beghrir Traditionnel au Beurre Clarifié & Miel",
+            "description": "Crêpes mille trous tièdes arrosées de beurre clarifié traditionnel smen et miel de cèdre naturel.",
+            "price": "750 DZD"
+          }
+        ]
+      },
+      {
+        "category": "Beverages & Teas",
+        "items": [
+          {
+            "name": "Cérémonie du Thé en Samovar Ciselé",
+            "description": "Thé vert royal infusé aux feuilles de menthe nanah fraîche, servi au samovar traditionnel avec pignons de pin.",
+            "price": "550 DZD"
+          },
+          {
+            "name": "Frappuccino Maison Pistache & Caramel",
+            "description": "Boisson gourmande glacée au café espresso, lait frais, éclats de pistaches grillées et coulis de caramel beurre salé.",
+            "price": "800 DZD"
+          }
+        ]
+      }
+    ]
+  }
+]

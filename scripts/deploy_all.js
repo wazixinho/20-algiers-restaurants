@@ -70,7 +70,7 @@ for (let i = 0; i < restaurants.length; i++) {
         cwd: rootDir,
         encoding: 'utf-8',
         stdio: 'pipe',
-        timeout: 90000
+        timeout: 150000
       });
 
       // Try parsing JSON block or regex match URL
@@ -103,6 +103,7 @@ for (let i = 0; i < restaurants.length; i++) {
       console.warn(`  ✗ Attempt ${attempts} failed: ${err.message.split('\n')[0]}`);
       if (attempts < 2) {
         console.log(`  Retrying deployment for ${slug}...`);
+        try { execSync('powershell -Command "Start-Sleep -Seconds 5"'); } catch (_) {}
       }
     }
   }
@@ -126,6 +127,11 @@ for (let i = 0; i < restaurants.length; i++) {
   }
 
   saveManifest();
+
+  // Gentle delay between deployments to prevent anonymous API throttling
+  try {
+    execSync('powershell -Command "Start-Sleep -Seconds 4"');
+  } catch (_) {}
 }
 
 console.log('\n========================================');

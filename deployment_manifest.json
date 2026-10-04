@@ -82,20 +82,18 @@
   {
     "slug": "dar-yemma-casbah",
     "restaurant_name": "Restaurant Dar Yemma Casbah",
-    "build_status": "FAILED",
+    "build_status": "SUCCESS",
     "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
-    "live_url": null,
-    "deployed_at": "2026-10-03T22:52:23.000Z",
-    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+    "live_url": "https://temporary-flying-fiddle-20tlpkv.vercel.app",
+    "deployed_at": "2026-10-03T23:07:35.000Z"
   },
   {
     "slug": "la-palmeraie",
     "restaurant_name": "Restaurant La Palmeraie",
-    "build_status": "FAILED",
-    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
-    "live_url": null,
-    "deployed_at": "2026-10-03T22:34:11.888Z",
-    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+    "build_status": "SUCCESS",
+    "commit_sha": "cf30cdb32ea4f7ede05f13fe398016f5de311928",
+    "live_url": "https://temporary-racing-banjo-ju7c9tp.vercel.app",
+    "deployed_at": "2026-10-03T23:08:35.995Z"
   },
   {
     "slug": "le-normand",
@@ -108,20 +106,19 @@
   {
     "slug": "l-auberge-du-moulin",
     "restaurant_name": "Restaurant L'Auberge du Moulin",
-    "build_status": "FAILED",
-    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
-    "live_url": null,
-    "deployed_at": "2026-10-03T22:37:45.711Z",
-    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+    "build_status": "SUCCESS",
+    "commit_sha": "cf30cdb32ea4f7ede05f13fe398016f5de311928",
+    "live_url": "https://temporary-snappy-valley-vea7wdz.vercel.app",
+    "deployed_at": "2026-10-03T23:09:17.051Z"
   },
   {
     "slug": "bellagiorno",
     "restaurant_name": "Restaurant Bellagiorno",
     "build_status": "FAILED",
-    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "commit_sha": "cf30cdb32ea4f7ede05f13fe398016f5de311928",
     "live_url": null,
-    "deployed_at": "2026-10-03T22:40:45.730Z",
-    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+    "deployed_at": "2026-10-03T23:14:27.322Z",
+    "error": "Vercel CLI 62.2.0 (Node.js 24.18.0)\n"
   },
   {
     "slug": "la-trattoria-sheraton",
@@ -134,20 +131,19 @@
   {
     "slug": "el-mordjane-sofitel",
     "restaurant_name": "El Mordjane - Sofitel Algiers Hamma Garden",
-    "build_status": "FAILED",
-    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
-    "live_url": null,
-    "deployed_at": "2026-10-03T22:44:13.055Z",
-    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+    "build_status": "SUCCESS",
+    "commit_sha": "cf30cdb32ea4f7ede05f13fe398016f5de311928",
+    "live_url": "https://temporary-turbo-lagoon-t61h459.vercel.app",
+    "deployed_at": "2026-10-03T23:17:43.476Z"
   },
   {
     "slug": "le-bearnais",
     "restaurant_name": "Restaurant Le Béarnais",
     "build_status": "FAILED",
-    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
+    "commit_sha": "cf30cdb32ea4f7ede05f13fe398016f5de311928",
     "live_url": null,
-    "deployed_at": "2026-10-03T22:47:13.080Z",
-    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+    "deployed_at": "2026-10-03T23:22:53.696Z",
+    "error": "Vercel CLI 62.2.0 (Node.js 24.18.0)\n"
   },
   {
     "slug": "beef-cote-steakhouse",
@@ -160,10 +156,9 @@
   {
     "slug": "dwiret-el-azz",
     "restaurant_name": "Restaurant Dwiret El Azz",
-    "build_status": "FAILED",
-    "commit_sha": "a2721540a3e3ab4179c7f61c920980ed896b7949",
-    "live_url": null,
-    "deployed_at": "2026-10-03T22:50:40.922Z",
-    "error": "Vercel anonymous API IP rate limit (429 Too Many Requests). Provide VERCEL_TOKEN to deploy without rate limits."
+    "build_status": "SUCCESS",
+    "commit_sha": "cf30cdb32ea4f7ede05f13fe398016f5de311928",
+    "live_url": "https://temporary-agile-glacier-61p0ih5.vercel.app",
+    "deployed_at": "2026-10-03T23:26:15.045Z"
   }
 ]

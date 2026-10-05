@@ -4,18 +4,18 @@
 
 @layer utilities {
   .text-glow {
-    text-shadow: 0 0 20px rgba(212, 175, 55, 0.4);
+    text-shadow: 0 0 20px rgba(230,175,46,0.48);
   }
   .glass-panel {
-    background: rgba(18, 18, 18, 0.75);
+    background: rgba(6, 13, 26, 0.90);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
-    border: 1px solid rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(230,175,46,0.22);
   }
   .glass-card {
-    background: rgba(28, 28, 30, 0.65);
+    background: rgba(10, 20, 40, 0.78);
     backdrop-filter: blur(12px);
-    border: 1px solid rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(230,175,46,0.22);
   }
 }
 
@@ -24,12 +24,12 @@
   width: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: #0c0a09;
+  background: #060d1a;
 }
 ::-webkit-scrollbar-thumb {
-  background: #292524;
+  background: #0e4d92;
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #44403c;
+  background: #1a6bc4;
 }

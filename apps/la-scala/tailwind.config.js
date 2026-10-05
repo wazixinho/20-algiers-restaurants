@@ -15,8 +15,8 @@ export default {
         }
       },
       fontFamily: {
-        serif: ['"Playfair Display"', 'Georgia', 'serif'],
-        sans: ['"Plus Jakarta Sans"', 'Inter', 'sans-serif'],
+        serif: ['"IM Fell English"', 'Georgia', 'serif'],
+        sans: ['"Mulish"', 'system-ui', 'sans-serif'],
       }
     },
   },

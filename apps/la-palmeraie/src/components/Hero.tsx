@@ -13,11 +13,11 @@ export const Hero: React.FC<HeroProps> = ({ restaurant, onOpenReservation }) => 
       {/* Background Image with Cinematic Dark Gradient Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1541518763669-27fef04b14ea?q=80&w=1600&auto=format&fit=crop"
+          src="https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=1600&auto=format&fit=crop"
           alt="Restaurant La Palmeraie"
           className="w-full h-full object-cover object-center scale-105 animate-fade-in"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/80 to-stone-950/50"></div>
+        <div className="absolute inset-0 bg-gradient-to-t from-[#0c1a0a] via-[#0c1a0a]/85 to-[#0c1a0a]/40"></div>
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,rgba(12,10,9,0.85)_100%)]"></div>
       </div>
 
@@ -35,8 +35,7 @@ export const Hero: React.FC<HeroProps> = ({ restaurant, onOpenReservation }) => 
 
         {/* District & Aesthetic subtitle */}
         <p className="max-w-2xl mx-auto text-base sm:text-lg md:text-xl text-stone-300 font-light mb-10 leading-relaxed">
-          Une expérience d'exception au cœur d'Alger. Oriental oasis palace, Andalusian riad courtyard, Berber rugs and lanterns, Family celebratory banquets.
-        </p>
+          Oasis orientale palatiale à Dely Ibrahim. Riad andalou, lanternes berbères, banquets de prestige.</p>
 
         {/* Dual CTA buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">

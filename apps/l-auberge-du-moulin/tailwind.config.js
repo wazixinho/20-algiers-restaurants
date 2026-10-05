@@ -9,14 +9,14 @@ export default {
       colors: {
         brand: {
           primary: "#582F0E",
-          secondary: "#7F4F24",
-          accent: "#A68A64",
+          secondary: "#A68A64",
+          accent: "#7F4F24",
           light: "#EDE0D4",
         }
       },
       fontFamily: {
-        serif: ['"Playfair Display"', 'Georgia', 'serif'],
-        sans: ['"Plus Jakarta Sans"', 'Inter', 'sans-serif'],
+        serif: ['"Vollkorn"', 'Georgia', 'serif'],
+        sans: ['"Cabin"', 'system-ui', 'sans-serif'],
       }
     },
   },

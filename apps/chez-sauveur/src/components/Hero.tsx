@@ -13,11 +13,11 @@ export const Hero: React.FC<HeroProps> = ({ restaurant, onOpenReservation }) => 
       {/* Background Image with Cinematic Dark Gradient Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?q=80&w=1600&auto=format&fit=crop"
+          src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?q=80&w=1600&auto=format&fit=crop"
           alt="Restaurant Chez Sauveur"
           className="w-full h-full object-cover object-center scale-105 animate-fade-in"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/80 to-stone-950/50"></div>
+        <div className="absolute inset-0 bg-gradient-to-t from-[#1a0607] via-[#1a0607]/85 to-[#1a0607]/40"></div>
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,rgba(12,10,9,0.85)_100%)]"></div>
       </div>
 
@@ -35,8 +35,7 @@ export const Hero: React.FC<HeroProps> = ({ restaurant, onOpenReservation }) => 
 
         {/* District & Aesthetic subtitle */}
         <p className="max-w-2xl mx-auto text-base sm:text-lg md:text-xl text-stone-300 font-light mb-10 leading-relaxed">
-          Une expérience d'exception au cœur d'Alger. Historic portside institution, Iconic seafood since 1960, Fisherman harbor vibe, Unpretentious authentic gastronomy.
-        </p>
+          Institution côtière depuis 1960 au port de La Madrague. Pêche fraîche du jour, saveurs authentiques de la mer.</p>
 
         {/* Dual CTA buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">

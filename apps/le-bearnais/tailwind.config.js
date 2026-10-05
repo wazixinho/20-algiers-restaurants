@@ -15,8 +15,8 @@ export default {
         }
       },
       fontFamily: {
-        serif: ['"Playfair Display"', 'Georgia', 'serif'],
-        sans: ['"Plus Jakarta Sans"', 'Inter', 'sans-serif'],
+        serif: ['"Playfair Display SC"', 'Georgia', 'serif'],
+        sans: ['"Proza Libre"', 'system-ui', 'sans-serif'],
       }
     },
   },

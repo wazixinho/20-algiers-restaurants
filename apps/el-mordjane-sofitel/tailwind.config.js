@@ -8,15 +8,15 @@ export default {
     extend: {
       colors: {
         brand: {
-          primary: "#C5A059",
-          secondary: "#780016",
+          primary: "#780016",
+          secondary: "#C5A059",
           accent: "#1A1A1A",
           light: "#F8F6F0",
         }
       },
       fontFamily: {
-        serif: ['"Playfair Display"', 'Georgia', 'serif'],
-        sans: ['"Plus Jakarta Sans"', 'Inter', 'sans-serif'],
+        serif: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+        sans: ['"Cinzel Decorative"', 'system-ui', 'sans-serif'],
       }
     },
   },

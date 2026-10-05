@@ -52,7 +52,7 @@ export const App: React.FC = () => {
   }
 
   return (
-    <div className="min-h-screen bg-stone-950 text-stone-100 flex flex-col justify-between selection:bg-brand-secondary selection:text-black">
+    <div className="min-h-screen bg-[#140608] text-stone-100 flex flex-col justify-between selection:bg-brand-secondary selection:text-black">
       <Navbar
         restaurant={restaurant}
         onOpenReservation={() => setIsReservationOpen(true)}

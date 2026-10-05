@@ -56,14 +56,18 @@ for (let i = 0; i < restaurants.length; i++) {
   let liveUrl = null;
   let errorMsg = null;
 
+  try {
+    fs.rmSync(path.join(rootDir, '.vercel'), { recursive: true, force: true });
+  } catch (_) {}
+
   while (attempts < 2 && !success) {
     attempts++;
     try {
       let cmd = '';
       if (vercelToken) {
-        cmd = `npx vercel --prod --yes --name "restaurant-${slug}" --cwd ./apps/${slug} -e ADMIN_USER=admin -e ADMIN_PASS=admin123! --token ${vercelToken}`;
+        cmd = `npx vercel --prod --yes --name "restaurant-${slug}" -e ADMIN_USER=admin -e ADMIN_PASS=admin123! --token ${vercelToken}`;
       } else {
-        cmd = `npx vercel deploy --temporary --cwd ./apps/${slug} --yes -e ADMIN_USER=admin -e ADMIN_PASS=admin123!`;
+        cmd = `npx vercel deploy --temporary --name "restaurant-${slug}" --yes -e ADMIN_USER=admin -e ADMIN_PASS=admin123!`;
       }
 
       const output = execSync(cmd, {

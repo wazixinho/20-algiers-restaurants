@@ -44,9 +44,7 @@ Each application in `./apps/{{slug}}/` is an independent, production-ready React
 
 ### Hidden Admin Interface
 - **Route**: `/#/admin` or `/admin` (strictly omitted from public headers/footers).
-- **Authentication**: Secured login screen with credentials:
-  - **Username**: `admin`
-  - **Password**: `admin123!`
+- **Authentication**: Secured login screen with credentials
 - **Capabilities**:
   - Full CRUD menu item manager (add, edit title/price/description, delete items).
   - Weekly operational schedule editor (modify opening hours per day).

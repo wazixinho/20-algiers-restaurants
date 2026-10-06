@@ -17,7 +17,7 @@ export const Hero: React.FC<HeroProps> = ({ restaurant, onOpenReservation }) => 
           alt="Restaurant El Djenina"
           className="w-full h-full object-cover object-center scale-105 animate-fade-in"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-[#0f0608] via-[#0f0608]/85 to-[#0f0608]/55"></div>
+        <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/80 to-stone-950/50"></div>
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,rgba(12,10,9,0.85)_100%)]"></div>
       </div>
 
@@ -35,7 +35,8 @@ export const Hero: React.FC<HeroProps> = ({ restaurant, onOpenReservation }) => 
 
         {/* District & Aesthetic subtitle */}
         <p className="max-w-2xl mx-auto text-base sm:text-lg md:text-xl text-stone-300 font-light mb-10 leading-relaxed">
-          Une expérience d'exception au cœur d'Alger. Palais ottoman, zellige andalou, stucs arabesques.</p>
+          Une expérience d'exception au cœur d'Alger. Ottoman palace, Andalusian zellige, Arabesque plasterwork, Aristocratic heritage.
+        </p>
 
         {/* Dual CTA buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">

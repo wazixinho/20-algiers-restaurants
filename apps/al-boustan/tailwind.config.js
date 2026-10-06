@@ -10,13 +10,13 @@ export default {
         brand: {
           primary: "#1B4332",
           secondary: "#E9C46A",
-          accent: "#2D6A4F",
+          accent: "#D8F3DC",
           light: "#F4F1DE",
         }
       },
       fontFamily: {
-        serif: ['"Amiri"', 'Georgia', 'serif'],
-        sans: ['"Cairo"', 'system-ui', 'sans-serif'],
+        serif: ['"Playfair Display"', 'Georgia', 'serif'],
+        sans: ['"Plus Jakarta Sans"', 'Inter', 'sans-serif'],
       }
     },
   },

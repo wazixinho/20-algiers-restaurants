@@ -17,7 +17,7 @@ export const Hero: React.FC<HeroProps> = ({ restaurant, onOpenReservation }) => 
           alt="Restaurant Dar Yemma Casbah"
           className="w-full h-full object-cover object-center scale-105 animate-fade-in"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-[#1c0c07] via-[#1c0c07]/88 to-[#3d1809]/50"></div>
+        <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/80 to-stone-950/50"></div>
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,rgba(12,10,9,0.85)_100%)]"></div>
       </div>
 
@@ -35,7 +35,8 @@ export const Hero: React.FC<HeroProps> = ({ restaurant, onOpenReservation }) => 
 
         {/* District & Aesthetic subtitle */}
         <p className="max-w-2xl mx-auto text-base sm:text-lg md:text-xl text-stone-300 font-light mb-10 leading-relaxed">
-          Cuisine ancestrale de la Casbah classée à l'UNESCO. Maison ottomane authentique, saveurs de Yemma, service en cuivre.</p>
+          Une expérience d'exception au cœur d'Alger. UNESCO Casbah heritage, Maternal home cooking, Copper sniwa service, Nostalgic authenticity.
+        </p>
 
         {/* Dual CTA buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">

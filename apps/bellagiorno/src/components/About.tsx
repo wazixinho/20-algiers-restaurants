@@ -8,7 +8,7 @@ interface AboutProps {
 
 export const About: React.FC<AboutProps> = ({ restaurant }) => {
   return (
-    <section id="about" className="py-24 bg-[#0d1c17] relative border-t border-stone-900">
+    <section id="about" className="py-24 bg-stone-950 relative border-t border-stone-900">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           
@@ -62,7 +62,8 @@ export const About: React.FC<AboutProps> = ({ restaurant }) => {
             <div className="space-y-4">
               <div className="h-64 rounded-2xl overflow-hidden shadow-2xl border border-stone-800">
                 <img
-                  src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=800&auto=format&fit=crop" alt="Atmosphère intérieure"
+                  src="https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800&auto=format&fit=crop"
+                  alt="Atmosphère intérieure"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                 />
               </div>
@@ -79,7 +80,8 @@ export const About: React.FC<AboutProps> = ({ restaurant }) => {
               </div>
               <div className="h-64 rounded-2xl overflow-hidden shadow-2xl border border-stone-800">
                 <img
-                  src="https://images.unsplash.com/photo-1498654896293-37aacf113fd9?q=80&w=800&auto=format&fit=crop" alt="Plats d'exception"
+                  src="https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?q=80&w=800&auto=format&fit=crop"
+                  alt="Plats d'exception"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                 />
               </div>

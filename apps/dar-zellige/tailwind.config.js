@@ -15,8 +15,8 @@ export default {
         }
       },
       fontFamily: {
-        serif: ['"Scheherazade New"', 'Georgia', 'serif'],
-        sans: ['"Tajawal"', 'system-ui', 'sans-serif'],
+        serif: ['"Playfair Display"', 'Georgia', 'serif'],
+        sans: ['"Plus Jakarta Sans"', 'Inter', 'sans-serif'],
       }
     },
   },

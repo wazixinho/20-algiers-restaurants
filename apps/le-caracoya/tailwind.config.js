@@ -15,8 +15,8 @@ export default {
         }
       },
       fontFamily: {
-        serif: ['"Josefin Slab"', 'Georgia', 'serif'],
-        sans: ['"Lato"', 'system-ui', 'sans-serif'],
+        serif: ['"Playfair Display"', 'Georgia', 'serif'],
+        sans: ['"Plus Jakarta Sans"', 'Inter', 'sans-serif'],
       }
     },
   },

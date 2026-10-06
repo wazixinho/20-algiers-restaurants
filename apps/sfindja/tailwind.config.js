@@ -15,8 +15,8 @@ export default {
         }
       },
       fontFamily: {
-        serif: ['"Gilda Display"', 'Georgia', 'serif'],
-        sans: ['"Nunito"', 'system-ui', 'sans-serif'],
+        serif: ['"Playfair Display"', 'Georgia', 'serif'],
+        sans: ['"Plus Jakarta Sans"', 'Inter', 'sans-serif'],
       }
     },
   },

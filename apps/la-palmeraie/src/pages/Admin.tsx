@@ -30,14 +30,12 @@ export const Admin: React.FC<AdminProps> = ({ restaurant, onUpdateRestaurant, on
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    // Check against default credentials or custom
-    if ((username === 'admin' && password === 'admin123!') || 
-        (username === 'admin' && password === 'admin') ||
-        (username.length > 2 && password === 'admin123!')) {
+    // Check against custom generated password
+    if (username === 'admin' && password === 'lapalmeraie2026!?') {
       setIsAuthenticated(true);
       setLoginError('');
     } else {
-      setLoginError('Identifiants incorrects. Par défaut: admin / admin123!');
+      setLoginError('Identifiants incorrects.');
     }
   };
 
@@ -152,7 +150,7 @@ export const Admin: React.FC<AdminProps> = ({ restaurant, onUpdateRestaurant, on
                 required
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
-                placeholder="admin"
+                placeholder="..."
                 className="w-full bg-stone-900 border border-stone-700 rounded-xl px-4 py-2.5 text-sm text-stone-100 focus:outline-none focus:border-brand-secondary"
               />
             </div>
